@@ -1,0 +1,380 @@
+BookmarkBegin
+BookmarkTitle: ii ... Important Safety Notice
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: v ... Foreword and Disclaimer
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: vi ... Vehicle Identification and VIN Decoder
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: vii ... Warnings and Cautions
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: 0 ... Overview, Maintenance
+BookmarkLevel: 1
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: 00 ... Golf, GTI and Jetta Product Familiarization
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: 0 ... Maintenance
+BookmarkLevel: 1
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: 1 ... Engine
+BookmarkLevel: 1
+BookmarkPageNumber: 
+BookmarkBegin
+BookmarkTitle: 10 ... Engine-Removing and Installing 
+BookmarkLevel: 2
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: 13a ... Crankshaft/Cylinder Block (4-Cylinder) 
+BookmarkLevel: 2
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: 13b ... Crankshaft/Cylinder Block (6-Cylinder) 
+BookmarkLevel: 2
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: 15a ... Cylinder Head and Valvetrain (1.8L Engine)
+BookmarkLevel: 2
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: 15b ... Cylinder Head and Valvetrain (1.9L Engine) 
+BookmarkLevel: 2
+BookmarkPageNumber: 225
+BookmarkBegin
+BookmarkTitle: 15c ... Cylinder Head and Valvetrain (2.0L Engine)
+BookmarkLevel: 2
+BookmarkPageNumber: 257
+BookmarkBegin
+BookmarkTitle: 15d ... Cylinder Head and Valvetrain (2.8L Engine)
+BookmarkLevel: 2
+BookmarkPageNumber: 297
+BookmarkBegin
+BookmarkTitle: 15e ... Cylinder Head and Valvetrain (1.9L PO Engine)
+BookmarkLevel: 2
+BookmarkPageNumber: 367
+BookmarkBegin
+BookmarkTitle: 17 ... Enqine-Lubricatlon System
+BookmarkLevel: 2
+BookmarkPageNumber: 397
+BookmarkBegin
+BookmarkTitle: 19 ... Engine-Cooling System
+BookmarkLevel: 2
+BookmarkPageNumber: 421
+BookmarkBegin
+BookmarkTitle: 2 ... Engine Management, Exhaust, and Engine Electrical
+BookmarkLevel: 1
+BookmarkPageNumber: 459
+BookmarkBegin
+BookmarkTitle: 2 ... General Information 
+BookmarkLevel: 2
+BookmarkPageNumber: 459
+BookmarkBegin
+BookmarkTitle: 20 ... Fuel Storage and Supply 
+BookmarkLevel: 2
+BookmarkPageNumber: 469
+BookmarkBegin
+BookmarkTitle: 21 ... Turbocharger and Intercooler 
+BookmarkLevel: 2
+BookmarkPageNumber: 505
+BookmarkBegin
+BookmarkTitle: 23 ... Fuel Injection-Diesel (1.9L Engine) 
+BookmarkLevel: 2
+BookmarkPageNumber: 521
+BookmarkBegin
+BookmarkTitle: 24a ... Fuel lnjection-Motronic (1.8L Engine) 
+BookmarkLevel: 2
+BookmarkPageNumber: 561
+BookmarkBegin
+BookmarkTitle: 24b ... Fuel lnjection-Motronic (2.0L Engine)
+BookmarkLevel: 2
+BookmarkPageNumber: 575
+BookmarkBegin
+BookmarkTitle: 24c ... Fuel lnjection-Motronic (2.8L Engine)
+BookmarkLevel: 2
+BookmarkPageNumber: 591
+BookmarkBegin
+BookmarkTitle: 26 ... Exhaust System andEmission Controls
+BookmarkLevel: 2
+BookmarkPageNumber: 615
+BookmarkBegin
+BookmarkTitle: 27 ... Engine Electrical
+BookmarkLevel: 2
+BookmarkPageNumber: 655
+BookmarkBegin
+BookmarkTitle: 28a ... Ignition System-Gasoline
+BookmarkLevel: 2
+BookmarkPageNumber: 677
+BookmarkBegin
+BookmarkTitle: 28b ... Ignition System-Diesel
+BookmarkLevel: 2
+BookmarkPageNumber: 699
+BookmarkBegin
+BookmarkTitle: 3 ... Clutch, Transmission,and Final Drive
+BookmarkLevel: 1
+BookmarkPageNumber: 707
+BookmarkBegin
+BookmarkTitle: 30 ... Clutch
+BookmarkLevel: 2
+BookmarkPageNumber: 707
+BookmarkBegin
+BookmarkTitle: 32 ... Torque Converter
+BookmarkLevel: 2
+BookmarkPageNumber: 727
+BookmarkBegin
+BookmarkTitle: 34 ... Manual Transmission
+BookmarkLevel: 2
+BookmarkPageNumber: 735
+BookmarkBegin
+BookmarkTitle: 37 ... Automatic Transmission
+BookmarkLevel: 2
+BookmarkPageNumber: 807
+BookmarkBegin
+BookmarkTitle: 39 ... Differential and Final Drive
+BookmarkLevel: 2
+BookmarkPageNumber: 867
+BookmarkBegin
+BookmarkTitle: 4 ... Suspension, Brakes, and Steering
+BookmarkLevel: 1
+BookmarkPageNumber: 887
+BookmarkBegin
+BookmarkTitle: 40 ... Front Suspension and Drive Axles
+BookmarkLevel: 2
+BookmarkPageNumber: 887
+BookmarkBegin
+BookmarkTitle: 42 ... Rear Suspension
+BookmarkLevel: 2
+BookmarkPageNumber: 935
+BookmarkBegin
+BookmarkTitle: 44 ... Wheels-Tires, Wheel Alignment
+BookmarkLevel: 2
+BookmarkPageNumber: 953
+BookmarkBegin
+BookmarkTitle: 45 ... Anti-Lock Brakes (ABS)
+BookmarkLevel: 2
+BookmarkPageNumber: 963
+BookmarkBegin
+BookmarkTitle: 46 ... Brakes-Mechanical Components
+BookmarkLevel: 2
+BookmarkPageNumber: 987
+BookmarkBegin
+BookmarkTitle: 47 ... Brakes-Hydraulic System
+BookmarkLevel: 2
+BookmarkPageNumber: 1003
+BookmarkBegin
+BookmarkTitle: 48 ... Steering
+BookmarkLevel: 2
+BookmarkPageNumber: 1027
+BookmarkBegin
+BookmarkTitle: 5 ... Body-Assembly
+BookmarkLevel: 1
+BookmarkPageNumber: 1055
+BookmarkBegin
+BookmarkTitle: 50 ... Body-Front
+BookmarkLevel: 2
+BookmarkPageNumber: 1055
+BookmarkBegin
+BookmarkTitle: 55 ... Hood and Lids
+BookmarkLevel: 2
+BookmarkPageNumber: 1061
+BookmarkBegin
+BookmarkTitle: 57 ... Front Doors
+BookmarkLevel: 2
+BookmarkPageNumber: 1081
+BookmarkBegin
+BookmarkTitle: 58 ... Rear Doors
+BookmarkLevel: 2
+BookmarkPageNumber: 1103
+BookmarkBegin
+BookmarkTitle: 6 ... Body-Components and Accessories
+BookmarkLevel: 1
+BookmarkPageNumber: 1117
+BookmarkBegin
+BookmarkTitle: 60 ... Sunroof
+BookmarkLevel: 2
+BookmarkPageNumber: 1117
+BookmarkBegin
+BookmarkTitle: 63 ... Bumpers
+BookmarkLevel: 2
+BookmarkPageNumber: 1131
+BookmarkBegin
+BookmarkTitle: 66 ... Body-Exterior Equipment
+BookmarkLevel: 2
+BookmarkPageNumber: 1137
+BookmarkBegin
+BookmarkTitle: 69 ... Seatbelts, Airbags
+BookmarkLevel: 2
+BookmarkPageNumber: 1151
+BookmarkBegin
+BookmarkTitle: 7 ... Body-Interior Trim
+BookmarkLevel: 1
+BookmarkPageNumber: 1177
+BookmarkBegin
+BookmarkTitle: 70 ... Trim-Interior
+BookmarkLevel: 2
+BookmarkPageNumber: 1177
+BookmarkBegin
+BookmarkTitle: 72 ... Seats
+BookmarkLevel: 2
+BookmarkPageNumber: 1219
+BookmarkBegin
+BookmarkTitle: 8 ... Heating and Air Conditioning
+BookmarkLevel: 1
+BookmarkPageNumber: 1235
+BookmarkBegin
+BookmarkTitle: 80 ... Heating and Ventilation
+BookmarkLevel: 2
+BookmarkPageNumber: 1235
+BookmarkBegin
+BookmarkTitle: 87 ... Air Conditioning
+BookmarkLevel: 2
+BookmarkPageNumber: 1251
+BookmarkBegin
+BookmarkTitle: 9 ... Electrical System
+BookmarkLevel: 1
+BookmarkPageNumber: 1297
+BookmarkBegin
+BookmarkTitle: 9 ... General Information
+BookmarkLevel: 1
+BookmarkPageNumber: 1297
+BookmarkBegin
+BookmarkTitle: 90 ... Instruments
+BookmarkLevel: 2
+BookmarkPageNumber: 1297
+BookmarkBegin
+BookmarkTitle: 91 ... Radio and Communication
+BookmarkLevel: 2
+BookmarkPageNumber: 1305
+BookmarkBegin
+BookmarkTitle: 92 ... Wipers and Washers
+BookmarkLevel: 2
+BookmarkPageNumber: 1327
+BookmarkBegin
+BookmarkTitle: 94 ... Lights, Accessories-Exterior
+BookmarkLevel: 2
+BookmarkPageNumber: 1337
+BookmarkBegin
+BookmarkTitle: 96 ... Lights, Accessories-Interior
+BookmarkLevel: 2
+BookmarkPageNumber: 1355
+BookmarkBegin
+BookmarkTitle: 97 ... Wiring Diagrams, Fuses and Relays
+BookmarkLevel: 1
+BookmarkPageNumber: 1365
+BookmarkBegin
+BookmarkTitle: 97-2 ... Fuses and Relays
+BookmarkLevel: 2
+BookmarkPageNumber: 1367
+BookmarkBegin
+BookmarkTitle: ST Scan Tool
+BookmarkLevel: 2
+BookmarkPageNumber: 
+BookmarkBegin
+BookmarkTitle: 97-7 ... Component Locations
+BookmarkLevel: 2
+BookmarkPageNumber: 1371
+BookmarkBegin
+BookmarkTitle: SPECIFIC WIRING DIAGRAMS
+BookmarkLevel: 1
+BookmarkPageNumber: 
+BookmarkBegin
+BookmarkTitle: Windshield wiper/washer switch 
+BookmarkLevel: 2
+BookmarkPageNumber: 1400
+BookmarkBegin
+BookmarkTitle: 1.9L engine (code SEW) with manual trans. from May 2003 
+BookmarkLevel: 2
+BookmarkPageNumber: 1754
+BookmarkBegin
+BookmarkTitle: 97-778 ... 2004-2005 Additional electrical wiring diagrams 
+BookmarkLevel: 2
+BookmarkPageNumber: 1758
+BookmarkBegin
+BookmarkTitle: 97-867 ... 81/3 Glow plug activation control module, engine glow 
+BookmarkLevel: 2
+BookmarkPageNumber: 1802
+BookmarkBegin
+BookmarkTitle: 97-869 ... G28 - Engine Speed (RPM) Sensor
+BookmarkLevel: 2
+BookmarkPageNumber: 1803
+BookmarkBegin
+BookmarkTitle: 97-871 ... G40 - Camshaft Position (CMP) Sensor
+BookmarkLevel: 2
+BookmarkPageNumber: 1804
+BookmarkBegin
+BookmarkTitle: 97-865 ... WIRING DIAGRAMS
+BookmarkLevel: 1
+BookmarkPageNumber: 1801
+BookmarkBegin
+BookmarkTitle: 97-865 ... No. 81/1 (1.9L - Engine - TDI PD BEW MT 74 kW)
+BookmarkLevel: 2
+BookmarkPageNumber: 1801
+BookmarkBegin
+BookmarkTitle: 97-864 ... No. 81/2 (Lanes 1 - 14)
+BookmarkLevel: 3
+BookmarkPageNumber: 1801
+BookmarkBegin
+BookmarkTitle: 97-867 ... No. 81/3 (Lanes 15 - 28)
+BookmarkLevel: 3
+BookmarkPageNumber: 1802
+BookmarkBegin
+BookmarkTitle: 97-866 ... No. 81/4 (Lanes 29 - 42)
+BookmarkLevel: 3
+BookmarkPageNumber: 1802
+BookmarkBegin
+BookmarkTitle: 97-869 ... No. 81/5 (Lanes 43 - 56)
+BookmarkLevel: 3
+BookmarkPageNumber: 1803
+BookmarkBegin
+BookmarkTitle: 97-868 ... No. 81/6 (Lanes 57 - 70)
+BookmarkLevel: 3
+BookmarkPageNumber: 1803
+BookmarkBegin
+BookmarkTitle: 97-871 ... No. 81/7 (Lanes 71 - 84)
+BookmarkLevel: 3
+BookmarkPageNumber: 1804
+BookmarkBegin
+BookmarkTitle: 97-870 ... No. 81/8 (Lanes 85 - 98)
+BookmarkLevel: 3
+BookmarkPageNumber: 1804
+BookmarkBegin
+BookmarkTitle: 97-873 ... No. 81/9 (Lanes 99 - 112)
+BookmarkLevel: 3
+BookmarkPageNumber: 1805
+BookmarkBegin
+BookmarkTitle: 97-872 ... No. 81/10 (Lanes 113 - 126)
+BookmarkLevel: 3
+BookmarkPageNumber: 1805
+BookmarkBegin
+BookmarkTitle: 97-875 ... No. 81/11 (Lanes 127 - 140)
+BookmarkLevel: 3
+BookmarkPageNumber: 1806
+BookmarkBegin
+BookmarkTitle: 97-874 ... No. 81/12 (Lanes 141 - 154)
+BookmarkLevel: 3
+BookmarkPageNumber: 1806
+BookmarkBegin
+BookmarkTitle: 97-877 ... No. 81/13 (Lanes 155 - 168)
+BookmarkLevel: 3
+BookmarkPageNumber: 1807
+BookmarkBegin
+BookmarkTitle: 97-876 ... No. 81/14 (Lanes 169 - 182)
+BookmarkLevel: 3
+BookmarkPageNumber: 1807
+BookmarkBegin
+BookmarkTitle: 97-879 ... No. 81/15 (Lanes 183 - 196)
+BookmarkLevel: 3
+BookmarkPageNumber: 1808
+BookmarkBegin
+BookmarkTitle: 97-878 ... No. 81/16 (Lanes 197 - 210)
+BookmarkLevel: 3
+BookmarkPageNumber: 1808
