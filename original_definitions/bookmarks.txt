@@ -1,8 +1,4 @@
 BookmarkBegin
-BookmarkTitle: TABLE OF CONTENTS
-BookmarkLevel: 1
-BookmarkPageNumber: 3
-BookmarkBegin
 BookmarkTitle: ii ... Important Safety Notice
 BookmarkLevel: 1
 BookmarkPageNumber: 2
@@ -23,7 +19,7 @@ BookmarkTitle: 0 ... Overview, Maintenance
 BookmarkLevel: 1
 BookmarkPageNumber: 9
 BookmarkBegin
-BookmarkTitle: 0 ... Golf, GTI and Jetta Product Familiarization
+BookmarkTitle: 00 ... Golf, GTI and Jetta Product Familiarization
 BookmarkLevel: 2
 BookmarkPageNumber: 9
 BookmarkBegin

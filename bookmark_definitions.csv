@@ -1,0 +1,97 @@
+Level,Page,PageNumName,Title
+1,3,,TABLE OF CONTENTS
+1,2,ii,Important Safety Notice
+1,5,v,Foreword and Disclaimer
+1,6,vi,Vehicle Identification and VIN Decoder
+1,7,vii,Warnings and Cautions
+1,9,0,"Overview, Maintenance"
+2,9,0,"Golf, GTI and Jetta Product Familiarization"
+1,39,0,Maintenance
+1,,1,Engine
+2,111,10,Engine-Removing and Installing 
+2,155,13a,Crankshaft/Cylinder Block (4-Cylinder) 
+2,177,13b,Crankshaft/Cylinder Block (6-Cylinder) 
+2,191,15a,Cylinder Head and Valvetrain (1.8L Engine)
+2,225,15b,Cylinder Head and Valvetrain (1.9L Engine) 
+2,257,15c,Cylinder Head and Valvetrain (2.0L Engine)
+2,297,15d,Cylinder Head and Valvetrain (2.8L Engine)
+2,367,15e,Cylinder Head and Valvetrain (1.9L PO Engine)
+2,397,17,Enqine-Lubricatlon System
+2,421,19,Engine-Cooling System
+1,459,2,"Engine Management, Exhaust, and Engine Electrical"
+2,459,2,General Information 
+2,469,20,Fuel Storage and Supply 
+2,505,21,Turbocharger and Intercooler 
+2,521,23,Fuel Injection-Diesel (1.9L Engine) 
+2,561,24a,Fuel lnjection-Motronic (1.8L Engine) 
+2,575,24b,Fuel lnjection-Motronic (2.0L Engine)
+2,591,24c,Fuel lnjection-Motronic (2.8L Engine)
+2,615,26,Exhaust System andEmission Controls
+2,655,27,Engine Electrical
+2,677,28a,Ignition System-Gasoline
+2,699,28b,Ignition System-Diesel
+1,707,3,"Clutch, Transmission,and Final Drive"
+2,707,30,Clutch
+2,727,32,Torque Converter
+2,735,34,Manual Transmission
+2,807,37,Automatic Transmission
+2,867,39,Differential and Final Drive
+1,887,4,"Suspension, Brakes, and Steering"
+2,887,40,Front Suspension and Drive Axles
+2,935,42,Rear Suspension
+2,953,44,"Wheels-Tires, Wheel Alignment"
+2,963,45,Anti-Lock Brakes (ABS)
+2,987,46,Brakes-Mechanical Components
+2,1003,47,Brakes-Hydraulic System
+2,1027,48,Steering
+1,1055,5,Body-Assembly
+2,1055,50,Body-Front
+2,1061,55,Hood and Lids
+2,1081,57,Front Doors
+2,1103,58,Rear Doors
+1,1117,6,Body-Components and Accessories
+2,1117,60,Sunroof
+2,1131,63,Bumpers
+2,1137,66,Body-Exterior Equipment
+2,1151,69,"Seatbelts, Airbags"
+1,1177,7,Body-Interior Trim
+2,1177,70,Trim-Interior
+2,1219,72,Seats
+1,1235,8,Heating and Air Conditioning
+2,1235,80,Heating and Ventilation
+2,1251,87,Air Conditioning
+1,1297,9,Electrical System
+1,1297,9,General Information
+2,1297,90,Instruments
+2,1305,91,Radio and Communication
+2,1327,92,Wipers and Washers
+2,1337,94,"Lights, Accessories-Exterior"
+2,1355,96,"Lights, Accessories-Interior"
+1,1365,97,"Wiring Diagrams, Fuses and Relays"
+2,1367,97-2,Fuses and Relays
+2,,,ST Scan Tool
+2,1371,97-7,Component Locations
+1,,,SPECIFIC WIRING DIAGRAMS
+2,1400,,Windshield wiper/washer switch 
+2,1754,,1.9L engine (code SEW) with manual trans. from May 2003 
+2,1758,97-778,2004-2005 Additional electrical wiring diagrams 
+2,1802,97-867,"81/3 Glow plug activation control module, engine glow "
+2,1803,97-869,G28 - Engine Speed (RPM) Sensor
+2,1804,97-871,G40 - Camshaft Position (CMP) Sensor
+1,1801,97-865,WIRING DIAGRAMS
+2,1801,97-865,No. 81/1 (1.9L - Engine - TDI PD BEW MT 74 kW)
+3,1801,97-864,No. 81/2 (Lanes 1 - 14)
+3,1802,97-867,No. 81/3 (Lanes 15 - 28)
+3,1802,97-866,No. 81/4 (Lanes 29 - 42)
+3,1803,97-869,No. 81/5 (Lanes 43 - 56)
+3,1803,97-868,No. 81/6 (Lanes 57 - 70)
+3,1804,97-871,No. 81/7 (Lanes 71 - 84)
+3,1804,97-870,No. 81/8 (Lanes 85 - 98)
+3,1805,97-873,No. 81/9 (Lanes 99 - 112)
+3,1805,97-872,No. 81/10 (Lanes 113 - 126)
+3,1806,97-875,No. 81/11 (Lanes 127 - 140)
+3,1806,97-874,No. 81/12 (Lanes 141 - 154)
+3,1807,97-877,No. 81/13 (Lanes 155 - 168)
+3,1807,97-876,No. 81/14 (Lanes 169 - 182)
+3,1808,97-879,No. 81/15 (Lanes 183 - 196)
+3,1808,97-878,No. 81/16 (Lanes 197 - 210)
