@@ -283,13 +283,13 @@ BookmarkTitle: 97-6 ... Ground Locations
 BookmarkLevel: 2
 BookmarkPageNumber: 1370
 BookmarkBegin
-BookmarkTitle: ST Scan Tool
-BookmarkLevel: 2
-BookmarkPageNumber: 
-BookmarkBegin
 BookmarkTitle: 97-7 ... Component Locations
 BookmarkLevel: 2
 BookmarkPageNumber: 1371
+BookmarkBegin
+BookmarkTitle: ST Scan Tool
+BookmarkLevel: 2
+BookmarkPageNumber: 
 BookmarkBegin
 BookmarkTitle: SPECIFIC WIRING DIAGRAMS
 BookmarkLevel: 1
