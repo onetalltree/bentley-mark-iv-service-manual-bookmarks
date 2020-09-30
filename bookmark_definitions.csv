@@ -8,22 +8,22 @@ Level,Page,PageNumName,Title
 2,9,0,"Golf, GTI and Jetta Product Familiarization"
 1,39,0,Maintenance
 1,,1,Engine
-2,111,10,Engine-Removing and Installing 
-2,155,13a,Crankshaft/Cylinder Block (4-Cylinder) 
-2,177,13b,Crankshaft/Cylinder Block (6-Cylinder) 
+2,111,10,Engine-Removing and Installing
+2,155,13a,Crankshaft/Cylinder Block (4-Cylinder)
+2,177,13b,Crankshaft/Cylinder Block (6-Cylinder)
 2,191,15a,Cylinder Head and Valvetrain (1.8L Engine)
-2,225,15b,Cylinder Head and Valvetrain (1.9L Engine) 
+2,225,15b,Cylinder Head and Valvetrain (1.9L Engine)
 2,257,15c,Cylinder Head and Valvetrain (2.0L Engine)
 2,297,15d,Cylinder Head and Valvetrain (2.8L Engine)
 2,367,15e,Cylinder Head and Valvetrain (1.9L PO Engine)
 2,397,17,Enqine-Lubricatlon System
 2,421,19,Engine-Cooling System
 1,459,2,"Engine Management, Exhaust, and Engine Electrical"
-2,459,2,General Information 
-2,469,20,Fuel Storage and Supply 
-2,505,21,Turbocharger and Intercooler 
-2,521,23,Fuel Injection-Diesel (1.9L Engine) 
-2,561,24a,Fuel lnjection-Motronic (1.8L Engine) 
+2,459,2,General Information
+2,469,20,Fuel Storage and Supply
+2,505,21,Turbocharger and Intercooler
+2,521,23,Fuel Injection-Diesel (1.9L Engine)
+2,561,24a,Fuel lnjection-Motronic (1.8L Engine)
 2,575,24b,Fuel lnjection-Motronic (2.0L Engine)
 2,591,24c,Fuel lnjection-Motronic (2.8L Engine)
 2,615,26,Exhaust System andEmission Controls
@@ -69,12 +69,13 @@ Level,Page,PageNumName,Title
 2,1355,96,"Lights, Accessories-Interior"
 1,1365,97,"Wiring Diagrams, Fuses and Relays"
 2,1367,97-2,Fuses and Relays
+2,1370,97-6,Ground Locations
 2,,,ST Scan Tool
 2,1371,97-7,Component Locations
 1,,,SPECIFIC WIRING DIAGRAMS
-2,1400,,Windshield wiper/washer switch 
-2,1754,,1.9L engine (code SEW) with manual trans. from May 2003 
-2,1758,97-778,2004-2005 Additional electrical wiring diagrams 
+2,1400,,Windshield wiper/washer switch
+2,1754,,1.9L engine (code SEW) with manual trans. from May 2003
+2,1758,97-778,2004-2005 Additional electrical wiring diagrams
 2,1802,97-867,"81/3 Glow plug activation control module, engine glow "
 2,1803,97-869,G28 - Engine Speed (RPM) Sensor
 2,1804,97-871,G40 - Camshaft Position (CMP) Sensor
