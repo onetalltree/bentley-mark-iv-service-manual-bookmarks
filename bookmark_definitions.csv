@@ -32,6 +32,22 @@ Level,Page,PageNumName,Title
 2,699,28b,Ignition System-Diesel
 1,707,3,"Clutch, Transmission,and Final Drive"
 2,707,30,Clutch
+3,707,30-1,GENERAL
+3,708,30-2,CLUTCH PEDAL (02J AND 02M)
+3,709,30-3,"Clutch pedal, assembly"
+3,710,30-4,"Over-center spring, removing and installing"
+3,712,30-6,"Clutch pedal, removing and installing"
+3,713,30-6,CLUTCH HYDRAULIC SYSTEM
+3,714,30-7,Clutch hydraulic system assembly (02J)
+3,715,30-8,Clutch hydraulic system assembly (02M)
+3,716,30-10,"Clutch master cylinder,removing and installing (02J and 02M)"
+3,720,30-14,"Clutch hydraulic system bleeding, (02J and 02M)"
+3,721,30-15,CLUTCH RELEASE MECHANISM
+3,722,30-16,"Clutch release mechanism, (02J)"
+3,723,30-17,"Clutch release mechanism, (02M)"
+3,724,30-18,CLUTCH SERVICING (02J AND 02M)
+3,724,30-18,Clutch assembly
+3,725,30-20,QUALITY REVIEW
 2,727,32,Torque Converter
 2,735,34,Manual Transmission
 2,807,37,Automatic Transmission
