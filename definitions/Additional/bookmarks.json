@@ -1,0 +1,58 @@
+[
+    {
+        "line": 1,
+        "type": "toc_entry",
+        "toc_level": "1",
+        "toc_description": "SPECIFIC WIRING DIAGRAMS",
+        "document_page": "",
+        "pdf_page": ""
+    },
+    {
+        "line": 2,
+        "type": "toc_entry",
+        "toc_level": "2",
+        "toc_description": "Windshield wiper/washer switch",
+        "document_page": "",
+        "pdf_page": "1400"
+    },
+    {
+        "line": 3,
+        "type": "toc_entry",
+        "toc_level": "2",
+        "toc_description": "1.9L engine (code SEW) with manual trans. from May 2003",
+        "document_page": "",
+        "pdf_page": "1754"
+    },
+    {
+        "line": 4,
+        "type": "toc_entry",
+        "toc_level": "2",
+        "toc_description": "2004-2005 Additional electrical wiring diagrams",
+        "document_page": "97-778",
+        "pdf_page": "1758"
+    },
+    {
+        "line": 5,
+        "type": "toc_entry",
+        "toc_level": "2",
+        "toc_description": "81/3 Glow plug activation control module, engine glow ",
+        "document_page": "97-867",
+        "pdf_page": "1802"
+    },
+    {
+        "line": 6,
+        "type": "toc_entry",
+        "toc_level": "2",
+        "toc_description": "G28 - Engine Speed (RPM) Sensor",
+        "document_page": "97-869",
+        "pdf_page": "1803"
+    },
+    {
+        "line": 7,
+        "type": "toc_entry",
+        "toc_level": "2",
+        "toc_description": "G40 - Camshaft Position (CMP) Sensor",
+        "document_page": "97-871",
+        "pdf_page": "1804"
+    }
+]

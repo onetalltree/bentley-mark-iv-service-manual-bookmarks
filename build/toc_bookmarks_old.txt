@@ -1,4 +1,8 @@
 BookmarkBegin
+BookmarkTitle: TABLE OF CONTENTS
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkBegin
 BookmarkTitle: ii ... Important Safety Notice
 BookmarkLevel: 1
 BookmarkPageNumber: 2
@@ -19,7 +23,7 @@ BookmarkTitle: 0 ... Overview, Maintenance
 BookmarkLevel: 1
 BookmarkPageNumber: 9
 BookmarkBegin
-BookmarkTitle: 00 ... Golf, GTI and Jetta Product Familiarization
+BookmarkTitle: 0 ... Golf, GTI and Jetta Product Familiarization
 BookmarkLevel: 2
 BookmarkPageNumber: 9
 BookmarkBegin
@@ -31,15 +35,15 @@ BookmarkTitle: 1 ... Engine
 BookmarkLevel: 1
 BookmarkPageNumber: 
 BookmarkBegin
-BookmarkTitle: 10 ... Engine-Removing and Installing 
+BookmarkTitle: 10 ... Engine-Removing and Installing
 BookmarkLevel: 2
 BookmarkPageNumber: 111
 BookmarkBegin
-BookmarkTitle: 13a ... Crankshaft/Cylinder Block (4-Cylinder) 
+BookmarkTitle: 13a ... Crankshaft/Cylinder Block (4-Cylinder)
 BookmarkLevel: 2
 BookmarkPageNumber: 155
 BookmarkBegin
-BookmarkTitle: 13b ... Crankshaft/Cylinder Block (6-Cylinder) 
+BookmarkTitle: 13b ... Crankshaft/Cylinder Block (6-Cylinder)
 BookmarkLevel: 2
 BookmarkPageNumber: 177
 BookmarkBegin
@@ -47,7 +51,7 @@ BookmarkTitle: 15a ... Cylinder Head and Valvetrain (1.8L Engine)
 BookmarkLevel: 2
 BookmarkPageNumber: 191
 BookmarkBegin
-BookmarkTitle: 15b ... Cylinder Head and Valvetrain (1.9L Engine) 
+BookmarkTitle: 15b ... Cylinder Head and Valvetrain (1.9L Engine)
 BookmarkLevel: 2
 BookmarkPageNumber: 225
 BookmarkBegin
@@ -75,23 +79,23 @@ BookmarkTitle: 2 ... Engine Management, Exhaust, and Engine Electrical
 BookmarkLevel: 1
 BookmarkPageNumber: 459
 BookmarkBegin
-BookmarkTitle: 2 ... General Information 
+BookmarkTitle: 2 ... General Information
 BookmarkLevel: 2
 BookmarkPageNumber: 459
 BookmarkBegin
-BookmarkTitle: 20 ... Fuel Storage and Supply 
+BookmarkTitle: 20 ... Fuel Storage and Supply
 BookmarkLevel: 2
 BookmarkPageNumber: 469
 BookmarkBegin
-BookmarkTitle: 21 ... Turbocharger and Intercooler 
+BookmarkTitle: 21 ... Turbocharger and Intercooler
 BookmarkLevel: 2
 BookmarkPageNumber: 505
 BookmarkBegin
-BookmarkTitle: 23 ... Fuel Injection-Diesel (1.9L Engine) 
+BookmarkTitle: 23 ... Fuel Injection-Diesel (1.9L Engine)
 BookmarkLevel: 2
 BookmarkPageNumber: 521
 BookmarkBegin
-BookmarkTitle: 24a ... Fuel lnjection-Motronic (1.8L Engine) 
+BookmarkTitle: 24a ... Fuel lnjection-Motronic (1.8L Engine)
 BookmarkLevel: 2
 BookmarkPageNumber: 561
 BookmarkBegin
@@ -126,6 +130,70 @@ BookmarkBegin
 BookmarkTitle: 30 ... Clutch
 BookmarkLevel: 2
 BookmarkPageNumber: 707
+BookmarkBegin
+BookmarkTitle: 30-1 ... GENERAL
+BookmarkLevel: 3
+BookmarkPageNumber: 707
+BookmarkBegin
+BookmarkTitle: 30-2 ... CLUTCH PEDAL (02J AND 02M)
+BookmarkLevel: 3
+BookmarkPageNumber: 708
+BookmarkBegin
+BookmarkTitle: 30-3 ... Clutch pedal, assembly
+BookmarkLevel: 3
+BookmarkPageNumber: 709
+BookmarkBegin
+BookmarkTitle: 30-4 ... Over-center spring, removing and installing
+BookmarkLevel: 3
+BookmarkPageNumber: 710
+BookmarkBegin
+BookmarkTitle: 30-6 ... Clutch pedal, removing and installing
+BookmarkLevel: 3
+BookmarkPageNumber: 712
+BookmarkBegin
+BookmarkTitle: 30-6 ... CLUTCH HYDRAULIC SYSTEM
+BookmarkLevel: 3
+BookmarkPageNumber: 713
+BookmarkBegin
+BookmarkTitle: 30-7 ... Clutch hydraulic system assembly (02J)
+BookmarkLevel: 3
+BookmarkPageNumber: 714
+BookmarkBegin
+BookmarkTitle: 30-8 ... Clutch hydraulic system assembly (02M)
+BookmarkLevel: 3
+BookmarkPageNumber: 715
+BookmarkBegin
+BookmarkTitle: 30-10 ... Clutch master cylinder,removing and installing (02J and 02M)
+BookmarkLevel: 3
+BookmarkPageNumber: 716
+BookmarkBegin
+BookmarkTitle: 30-14 ... Clutch hydraulic system bleeding, (02J and 02M)
+BookmarkLevel: 3
+BookmarkPageNumber: 720
+BookmarkBegin
+BookmarkTitle: 30-15 ... CLUTCH RELEASE MECHANISM
+BookmarkLevel: 3
+BookmarkPageNumber: 721
+BookmarkBegin
+BookmarkTitle: 30-16 ... Clutch release mechanism, (02J)
+BookmarkLevel: 3
+BookmarkPageNumber: 722
+BookmarkBegin
+BookmarkTitle: 30-17 ... Clutch release mechanism, (02M)
+BookmarkLevel: 3
+BookmarkPageNumber: 723
+BookmarkBegin
+BookmarkTitle: 30-18 ... CLUTCH SERVICING (02J AND 02M)
+BookmarkLevel: 3
+BookmarkPageNumber: 724
+BookmarkBegin
+BookmarkTitle: 30-18 ... Clutch assembly
+BookmarkLevel: 3
+BookmarkPageNumber: 724
+BookmarkBegin
+BookmarkTitle: 30-20 ... QUALITY REVIEW
+BookmarkLevel: 3
+BookmarkPageNumber: 725
 BookmarkBegin
 BookmarkTitle: 32 ... Torque Converter
 BookmarkLevel: 2
@@ -275,27 +343,31 @@ BookmarkTitle: 97-2 ... Fuses and Relays
 BookmarkLevel: 2
 BookmarkPageNumber: 1367
 BookmarkBegin
-BookmarkTitle: ST Scan Tool
+BookmarkTitle: 97-6 ... Ground Locations
 BookmarkLevel: 2
-BookmarkPageNumber: 
+BookmarkPageNumber: 1370
 BookmarkBegin
 BookmarkTitle: 97-7 ... Component Locations
 BookmarkLevel: 2
 BookmarkPageNumber: 1371
 BookmarkBegin
+BookmarkTitle: ST Scan Tool
+BookmarkLevel: 2
+BookmarkPageNumber: 
+BookmarkBegin
 BookmarkTitle: SPECIFIC WIRING DIAGRAMS
 BookmarkLevel: 1
 BookmarkPageNumber: 
 BookmarkBegin
-BookmarkTitle: Windshield wiper/washer switch 
+BookmarkTitle: Windshield wiper/washer switch
 BookmarkLevel: 2
 BookmarkPageNumber: 1400
 BookmarkBegin
-BookmarkTitle: 1.9L engine (code SEW) with manual trans. from May 2003 
+BookmarkTitle: 1.9L engine (code SEW) with manual trans. from May 2003
 BookmarkLevel: 2
 BookmarkPageNumber: 1754
 BookmarkBegin
-BookmarkTitle: 97-778 ... 2004-2005 Additional electrical wiring diagrams 
+BookmarkTitle: 97-778 ... 2004-2005 Additional electrical wiring diagrams
 BookmarkLevel: 2
 BookmarkPageNumber: 1758
 BookmarkBegin

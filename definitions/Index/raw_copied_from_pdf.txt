@@ -1,0 +1,1387 @@
+A
+ABS
+see Anti-lock brakes (ABS)
+ABS/EDUASR/ESP coding tables
+ST-29
+Air conditioning (Ale)
+AlC, heating and ventilation controls	87-23
+AlC clutch 87-38
+AlC components, underhood 87-32
+AlC compressor 87-34
+AlC passenger compartment
+components (climatronic) 87-24
+AlC pressure switches, checking 87-9
+AlC refrigerant circuit, 87-2
+AlC refrigerant system 87-5
+AlC refrigerant system, replacing
+components 87-12
+AlC refrigerant system servicing
+87-16
+AlC refrigerant system, discharging
+and charging 87-21
+AlC refrigerant system, flushing 87-22
+AlC system, troubleshooting 87-18
+AlC system odor, checking 87-16
+air flap motors (climatronic) 87-28
+condenser assembly, overview 87-14
+control module for fresh air blower,
+removing 87-26
+evaporator/heater assembly,
+overview 87-15
+evaporator water drain valve 87-33
+footwell air outlet temperature sensor,
+removing and installing 87-26
+footwell/defrost flap motor (V85),
+removing and installing 87-31
+fresh air blower, removing 87-27
+high pressure service valve
+assembly 87-10
+low pressure service valve
+assembly 87-10
+pressure relief valve 87-10
+refrigerant oil, pag 87-12
+refrigerant lines and hoses 87-12
+sunlight photo sensor, removing 87-26
+temperature flap motor (V68) 87-30
+Air filter
+see Maintenance
+Airbag system coding tables ST-32
+Airbags
+see Seatbelts, airbags
+control module coding
+see Scan Tool
+Alarm system
+see Front doors, comfort system
+Alternator
+see Engine Electrical, generator
+Antenna
+see Radio
+Anti-freeze
+see Engine-cooling system
+Anti-lock brakes (ABS)
+ABS components 45-4
+ABS control module 45-21
+ABS control module coding
+see Scan Tool
+brake light switch, removing and
+installing 45-10
+brake system warning lights 45-8
+electrical components 45-5
+front ABS rotor, checking 45-23
+hydraulic/mechanical ABS
+components 45-13
+hydraulic unit, distinguishing features
+45-6
+hydraulic unit, removing/installing
+45-16
+special precautions for ABS or
+ABS/EOL equipped vehicles 45-2
+wheel speed sensors 45-22
+Anti-theft Immobilizer 96-18
+Automatic transmission
+ATF cooler 37-58
+automatic transmission electronic and
+electrical components 37-11
+basic settings 37-19
+selector lever cable, checking and
+adjusting (01M) 37-27
+selector lever cable, checking and
+adjusting (09A) 37-28
+shift lock 37-29
+shift lock operation checking 37-36
+shift mechanism, assembly 37-21
+transmission, removing and installing
+(01M) 37-37
+transmission, removing and installing
+(09A) 37-48
+transmission code location 37-2
+transmission range switch, removing,
+installing, adjusting 37-17
+INDEX 1
+8
+Battery
+see Engine electrical
+remote control batteries, changing
+see Front doors
+Belts
+ribbed v-belt, see Maintenance
+toothed belt, see Timing belt
+Bleeding brakes
+see Brakes-hydraulic system
+Body-exterior equipment
+exterior moldings 66-7
+front grille 66-10
+"GTI 337 edition" special trim 66-11
+mirror housing 66-1
+roof moldings, overview 66-7
+roof rack rail (Jetta wagon) 66-9
+rear spoiler 66-13
+rear spoiler stoplight 66-14
+side moldings, overview 66-8
+side-view mirror 66-1
+side-view mirror assembly 66-3
+sill panel extension 66-12
+wheel housing liners 66-5
+Body-front
+front body components 50-1
+fender dimensions, Golf/GTI 50-3
+fender dimensions, Jetta 50-3
+front fender assembly 50-2
+lock carrier 50-4
+front noise insulation 50-5
+Boost pressure
+see Turbocharger and intercooler
+Brake fluid
+see Brakes-hydraulic system
+see also Maintenance
+Brake light switch
+removing and installing 45-10
+Brakes-hydraulic system
+brake booster 47-22
+brake booster pressure sensor 47-19
+brake pressure regulator 47-11
+brake fluid 47-13
+bleeding 47-14
+replacing 47-15
+brake master cylinder 47-21
+brake service precautions 47-1
+electric vacuum pump 47-20
+front brake caliper 47-2
+front brake caliper (FS III) 47-3
+front brake caliper (FN 3) 47-4
+front caliper piston, removing and
+installing (FS III and FN 3) 47-5
+master cylinder/brake booster 47-17
+rear brakes 47-7
+rear caliper piston 47-8
+rear caliper, pre-bleeding 47-10
+vacuum check valve 47-19
+vacuum pump for brake booster
+(TOI engine) 47-19
+2 INDEX
+Brakes-mechanical components
+front brakes 46-2
+front brake assembly
+FS III caliper 46-3
+FN3 caliper 46-6
+front brake pads, removing and
+installing
+FS III caliper 46-4
+FN 3 caliper 46-7
+parking brake, adjusting 46-13
+parking brake cables, removing and
+installing 46-14
+parking brake lever assembly 46-16
+rear brakes 46-9
+rear brake pads, removing and
+installing 46-10
+Bumpers
+bumpers, servicing 63-1
+front bumper assembly 63-2
+front bumper beam assembly 63-3
+hood release lever, removing 63-1
+rear bumper assembly 63-4
+rear bumper beam assembly 63-5
+trailer hitch, assembly 63-6
+c
+Caliper
+see Brakes-hydraulic system
+Catalytic converter
+see Exhaust system and emission
+controls
+CO changer/player
+see Radio
+Central locking
+see Front doors
+Clutch
+clutch assembly 30-18
+clutch hydraulic system 30-6
+clutch hydraulic system bleeding
+(02J and 02M) 30-14
+clutch master cylinder, removing and
+installing (02J and 02M) 30-10
+clutch pedal (02J and 02M) 30-2
+clutch pedal, removing and installing
+30-6
+clutch release mechanism 30-15
+clutch servicing (02J and 02M) 30-18
+over-center spring, removing and
+installing 30-4
+Comfort system
+see Front doors
+control module coding
+see Scan Tool
+Component locations (electrical) 97-7
+Compression test
+see Cylinder head and valvetrain
+Control module coding
+see Scan Tool
+Console, center
+see Trim-interior
+Convenience system coding tables
+ST-37
+Coolant pump
+see Engine-cooling system
+Crankshaft/cylinder block (4-cylinder)
+crankshaft 13a-18
+crankshaft assembly (gasoline
+engines) 13a-20
+crankshaft assembly (diesel engine)
+13a-21
+cylinder bore dimensions 13a-16
+cylinder block 13a-2
+cylinder block internal components
+13a-10
+driveplate clearance, adjusting (cars
+with automatic transmission) 13a-9
+flywheel/driveplate 13a-8
+oil seals 13a-4
+piston projection at TOC
+(diesel engine) 13a-17
+piston rings 13a-14
+pistons and connecting rods 13a-10
+Crankshaft/cylinder block (6-cylinder)
+cylinder block components 13b-2
+cylinder block internal components
+13b-9
+cylinder bore dimensions 13b-12
+crankshaft 13b-13
+driveplate clearance, adjusting (cars
+with automatic transmission) 13b-8
+flywheel/driveplate 13b-7
+oil seals 13b-5
+pistons and connecting rods 13b-9
+vibration damper, removing and
+installing 13b-4
+Cruise control 27-21
+CV joint
+see Front suspension and drive axle
+Cylinder head and valvetrain
+(1.8L engine)
+cylinder head components 15a-30
+cylinder head, removing and installing
+15a-24
+cylinder head service 15a-3
+camshaft oil seal, replacing 15a-7
+camshafts, removing and installing
+15a-11
+cylinder head (valve) cover,
+removing and installing 15a-6
+external cylinder head assembly
+15a-5
+hydraulic cam followers, checking
+15a-14
+internal cylinder head assembly
+15a-4
+valve stem oil seals 15a-15
+diagnostic testing 15a-2
+compression test 15a-2
+cylinder leakdown test 15a-3
+timing belt - camshaft drive 15a-18
+valves 15a-31
+Cylinder head and valvetrain
+(1.9L engine)
+cylinder head components 15b-28
+cylinder head, removing and installing
+15b-22
+cylinder head service 15b-3
+camshaft oil seal, replacing 15b-6
+camshaft, removing and installing
+15b-9
+cylinder head (valve) cover,
+removing and installing 15b-6
+external cylinder head assembly
+15b-5
+hydraulic cam followers, checking
+15b-11
+internal cylinder head assembly
+15b-4
+valve stem oil seals 15b-12
+diagnostic testing 15b-2
+compression test 15b-2
+cylinder leakdown test 15b-3
+timing belt - camshaft drive 15b-14
+valves 15b-29
+Cylinder head and valvetrain
+(1.9L PO engine)
+cylinder head components 15c-25
+cylinder head, removing and installing
+15e-22
+cylinder head service 15e-3
+camshaft oil seal, replacing 15e-8
+camshaft, removing and installing
+15e-9
+cylinder head (valve) cover,
+removing and installing 15e-7
+external cylinder head assembly
+15e-5
+internal cylinder head assembly
+15e-4
+valve stem oil seals 15e-12
+diagnostic testing 15e-2
+compression test 15e-2
+cylinder leakdown test 15e-3
+timing belt - camshaft drive 15e-15
+valves 15e-26
+Cylinder head and valvetrain
+(2.0L engine)
+cylinder head components 15c-35
+cylinder head, removing and installing
+15c-28
+cylinder head service 15c-3
+camshaft oil seal, replacing 15c-10
+camshaft, removing and installing
+15c-11
+cylinder head (valve) cover,
+removing and installing 15c-9
+external cylinder head assembly
+15c-6
+hydraulic cam followers 15c-13
+internal cylinder head assembly
+15c-4
+valve stem oil seals 15c-14
+diagnostic testing 15c-2
+compression test 15c-2
+cylinder leakdown test 15c-3
+timing belt - camshaft drive 15c-13
+valves 15c-37
+Cylinder head and valvetrain
+(2.8L engine)
+camshaft drive chains (AFP engine)
+15d-17
+valve timing, checking 15d-18
+camshaft drive chains (BDF engine)
+15d-50
+valve timing, checking 15d-51
+cylinder head components
+(AFP engine) 15d-31
+camshafts and cam followers
+15d-32
+valves 15d-33
+cylinder head components
+(BDF engine) 15d-66
+camshafts and cam followers
+15d-67
+valves 15d-68
+cylinder head, removing and installing
+(AFP engine) 15d-25
+cylinder head, removing and installing
+(BDF engine) 15d-58
+cylinder head service (AFP engine)
+15d-5
+camshafts, removing 15d-1 0
+cylinder head (valve) cover,
+removing and installing 15d-7
+hydraulic cam followers 15d-14
+internal cylinder head assembly
+15d-6
+valve stem oil seals, replacing
+15d-15
+cylinder head service (BDF engine)
+15d-35
+camshafts, removing 15d-43
+camshaft sprocket cover assembly
+15d-37
+cylinder head (valve) cover,
+removing and installing 15d-40
+external cylinder head assembly
+15d-36
+valve stem oil seals, replacing
+15d-48
+diagnostic testing 15d-2
+compression test 15d-2
+cylinder leakdown test 15d-4
+o
+Dashboard
+see Instrument panel 70-32
+Diagnostic trouble codes
+see Scan Tool
+Diesel fuel injection
+see Fuel injection-diesel
+Differential and final drive
+automatic transmission 39-9
+differential and final drive assembly
+39-10,39-11
+drive flange oil seals, replacing
+(01M) 39-12
+drive flange oil seals, replacing
+(09A) 39-16
+manual transmission 39-1
+differential and final drive assembly
+39-2,39-3
+drive flange oil seals, replacing (02J)
+39-4
+drive flange oil seals, replacing
+(02M) 39-6
+rear final drive, identification
+(R32 models)
+see R32 supplement
+Disc brakes
+see Brakes-mechanical components
+see also Brakes-hydraulic
+components
+Door panel
+see Trim-interior
+Doors
+see Front doors
+see also Rear doors
+Drive axles
+see Front suspension and drive axles
+Drive belt
+see Cylinder head and valvetrain,
+camshaft drive belt
+see also Maintenance: ribbed V-belts
+Driveplate
+see Crankshaft/cylinder block
+DTC table ST-2
+Dust and pollen filter
+see Heating and ventilation
+E
+Engine Control Module (ECM) coding
+tables ST-25
+EGR
+see Exhaust system and emission
+controls
+Electrical system-general
+continuity, checking 9-6
+electrical test equipment 9-2
+electrical troubleshooting 9-3
+INDEX 3
+safety precautions 9-1
+short circuit test with voltmeter 9-7
+short circuits, checking 9-6
+voltage, measuring 9-5
+voltage and ground, checking 9-4
+voltage and polarity 9-1
+voltage drop, testing 9-5
+wiring diagrams, fuses
+and relays 9-3
+Electronic Power Control (EPC)
+System
+EPC pedal components 20-17
+malfunction light for accelerator
+activation 20-16
+Engine-cooling system
+after-run coolant pump,
+checking 19-10
+auxiliary radiator (2.8L engine)19-34
+coolant/anti-freeze concentration 19-6
+coolant, pump and thermostat 19-2
+coolant pump, replacing
+(1.8L engine) 19-15
+(1.9L engine) 19-17
+(1.9L PD engine) 19-19
+(2.0L engine) 19-23
+(2.8L AFP engine) 19-25
+(2.8L BDF engine) 19-27
+coolant temperature/level warning
+lights 19-4
+cooling fans and thermo-switch 19-7
+cooling system, components 19-14
+cooling system, draining and
+filling 19-11
+cooling system, pressure testing
+19-6
+radiator and cooling fans 19-29
+thermostat, replacing (4-cylinder)
+19-35
+thermostat assembly (2.8L engine)
+19-37
+troubleshooting 19-4
+warnings and cautions 19-2
+Engine electrical
+battery charging 27-6
+battery, removing and installing 27-7
+battery service 27-3
+charging system 27-11
+cruise control 27-21
+electrolyte level, checking 27-3
+generator, overview 27-13
+generator, removing and
+installing 27-12
+load voltage testing 27-5
+open circuit voltage test 27-4
+procedure following interruption of
+voltage supply 27-10
+regulator brushes, checking 27-16
+specific gravity, checking 27-5
+static current draw, checking 27-4
+starter bushing 27-21
+starter, removing and installing
+27-19
+starter service 27-17
+4 INDEX
+Engine-general
+1.8L engine 1-2
+1.9L engine 1-3
+1.9L engine (PO diesel) 1-6
+2.0L engine 1-4
+2.8L engine 1-5
+Engine-lubrication system
+lubrication system, components 17-5
+oil cooler 17-20
+oil filter flange assembly
+(1.8L engine) 17-10
+(1.9L engine) 17-11
+(2.0L engine) 17-12
+(2.8L AFP engine) 17-13
+(2.8L BOF engine) 17-14
+oil pan 17-14
+oil pressure and oil pressure switch,
+testing 17-3
+oil pressure warning system 17-3
+oil pump 17-18
+oil spray nozzles 17-20
+oil supply to turbocharger (1.9L PO
+diesel engine) 17-21
+Engine-removing/installing
+1.8L 10-2
+1.9L 10-13
+2.0L 10-23
+2.8L 10-33
+Exhaust system and emission
+controls
+catalytic converter 26-5
+combi-valve, checking (2.8L engine)
+26-32
+emission controls (diesel engine)
+26-33
+emission controls (gas engines) 26-23
+exhaust gas recirculation (EGR)
+26-33
+EGR cooler 26-38
+EGR valve, checking 26-36
+exhaust system
+(1.8L engine) 26-7
+(1.9L engine) 26-10
+(2.0L engine) 26-13
+(2.8L engine) 26-20
+exhaust system, installation details
+26-4
+oxygen sensor, removing and
+installing 26-6
+positive crankcase ventilation (PCV)
+gas engines 26-23
+diesel engines 26-33
+secondary air injection system
+26-23
+secondary air injection system,
+components
+(1.8L engine) 26-27
+(2.0L engine) 26-28
+(2.8L engine) 26-30
+service precautions 26-2
+vacuum hose connections
+1.9L TOI engine 26-35
+1.9L PO TOI engine 26-37
+F
+Fender
+see Body-front
+Flywheel
+see Crankshaft/cylinder block
+Fog light
+see Lights, accessories-exterior
+Front doors
+central locking 57-2
+comfort system and central locking,
+component overview 57-19
+connector station in a-pillar 57-20
+door, adjusting 57-4
+door assembly 57-3
+door handle and lock assembly 57-5
+door handle, removing and installing
+57-7
+door, removing and installing 57-4
+door seals 57-17
+door window assembly 57-14
+door window glass 57-15
+keys and remote control 57-20
+lock button, removing and installing
+57-12
+lock cylinder housing, removing and
+installing 57-6
+power windows 57-1
+remote control batteries, changing
+57-21
+Front seats
+see Seats
+Front suspension and drive axles
+ball joint, removing and installing 40-6
+coil spring, removing, installing,
+identifying 40-17
+cv joints, servicing 40-39
+drive axles 40-18
+drive axle, removing and installing
+40-44
+front suspension strut assembly 40-13
+front suspension struts, removing and
+installing 40-14
+inner cv joint and boot 40-41
+outer cv joint and boot 40-39
+subframe, stabilizer bar, control arm
+assembly 40-3
+suspension struts 40-13
+triple roller joint, 40-27
+wheel bearings 40-8
+Fuel, ignition, and exhaust systemsgeneral
+diesel turbo direct injection (TOI) 2-3
+electronic power control (EPC) 2-8
+emission controls 2-8
+fuel injection 2-1
+fuel supply 2-1
+ignition system 2-8
+motronic 5.9.2 engine management
+2-2
+motronic ME 7 engine management
+2-5
+Fuel filter
+see Maintenance
+Fuel injection-motronic (1.8L engine)
+adaptation 24a-4
+air cleaner assembly 24a-11
+engine control module (ECM)
+24a-13
+engine coolant temperature (ECT)
+sensor, measuring resistance
+24a-7
+engine speed (RPM) sensor 24a-13
+fuel injection system component
+locations, overview 24a-6
+fuel injection system components,
+removing and installing 24a-8
+fuel rail and injector assembly
+24a-12
+intake air temperature (IAT) sensor,
+measuring resistance 24a-10
+on board diagnostics 24a-3
+readiness codes 24a-4
+safety precautions 24a-2
+Fuel injection-diesel (1.9L engine)
+diesel injection system
+(1.9L TOI diesel) 23-2
+basic fuel delivery, checking 23-9
+diagnostic quick checks 23-7
+engine control module 23-23
+fuel injectors 23-27
+fuel shut-off valve, checking 23-8
+injection pump 23-12
+injection pump dynamic timing,
+checking and adjusting 23-20
+intake manifold change-over valve
+23-26
+readiness codes, setting 23-25
+throttle position sensor 23-10
+timing belt - camshaft drive 23-11
+troubleshooting 23-5
+diesel injection system
+(1.9L PO TOI diesel) 23-30
+engine control module 23-33
+pump injector 23-35
+throttle position sensor 23-31
+timing belt - camshaft drive 23-31
+variable intake manifold 23-34
+Fuel injection-motronic (2.0L engine)
+motronic engine management
+components 24b-5
+air cleaner assembly 24b-14
+engine control module (ECM)
+24b-16
+engine coolant temperature (ECT)
+sensor, measuring resistance
+24b-10
+engine speed (RPM) sensor 24b-16
+intake air temperature (IAT) sensor,
+measuring resistance 24b-15
+lower intake manifold section,
+assembly 24b-12
+upper intake manifold assembly
+24b-11
+on board diagnostics 24b-3
+adaptation 24b-4
+engine control module coding 24b-5
+readiness codes 24b-4
+
+Fuel injection-motronic (2.8L engine)
+fuel injection components testing
+24c-21
+engine control module (ECM)
+24c-23
+engine coolant temperature sensor
+(ECT) 24c-22
+engine speed (RPM) sensor 24c-23
+intake air temperature (IAT) sensor
+24c-21
+throttle valve (TV) control module
+24c-24
+motronic engine management
+components (AFP engine) 24c-5
+air cleaner assembly 24c-12
+intake manifold, upper section,
+assembly 24c-1 0
+intake manifold, lower section and
+fuel rail, assembly 24c-11
+motronic engine management
+components (BOF engine) 24c-13
+air cleaner assembly 24c-20
+fuel rail assembly 24c-19
+intake manifold assembly 24c-18
+throttle valve control module,
+measuring resistance 24c-24
+on board diagnostics 24c-3
+adaptation 24c-4
+engine control module coding 24c-5
+readiness codes 24c-4
+Fuel storage and supply
+change-over valve, checking 20-21
+electronic power control (EPC)
+system 20-30
+EPC pedal components 20-31
+evaporative emissions 20-32
+EVAP system overviews 20-35
+LOP system overviews
+fuel cooler (1.9L) 20-25
+fuel filter assembly (1.9L PO) 20-26
+fuel gauge sensor, removing and
+installing 20-11
+fuel pump (fuel delivery unit) 20-13
+fuel pump troubleshooting 20-3
+fuel tank and lines 20-19
+tandem pump (1.9L PO) 20-27
+throttle mechanism (AEG engine)
+20-26
+Fuel tank
+see Fuel storage and supply
+Fuses
+see Wiring diagrams, fuses and relays
+G
+Generator
+see Engine electrical system
+Glow plugs
+see Ignition system-diesel
+H
+Haldex clutch
+see R32 supplement
+Hand brake
+see Parking brake 46-13
+Headlight
+see Lights, accessories-exterior
+Headliner
+see Trim-Interior
+Heating and ventilation
+air outlets, removing 80-3
+blower fan, removing and installing
+80-13
+central flap cable 80-10
+central flap lever 80-13
+connecting duct 80-5
+defroster duct 80-5
+dust and pollen filter 80-11
+footwell/defrost flap cable 80-10
+heater assembly, overview 80-12
+heater core bulkhead seal 80-13
+heating and ventilation components
+80-11
+heating and ventilation controls 80-2
+instrument panel crossmember,
+loosening and tightening 80-5
+passenger compartment components,
+overview 80-2
+recirculation flap servo 80-14
+side window fixed air vents 80-3
+temperature flap cable 80-10
+ventillation system, checking 80-15
+Hood and lids
+front hood 55-2
+hood assembly 55-2
+hood lock assembly 55-5
+hood lock support, removing 55-6
+hood lock, removing 55-6
+hood release cable assembly 55-3
+release lever, removing and
+installing 55-4
+INDEX 5
+rear lids 55-7
+gas-filled strut, removing 55-9
+lock cylinder housing assembly
+(Golf) 55-11
+rear hatch assembly (Golf) 55-8
+rear hatch lock assembly (Golf)
+55-10
+rear hatch/lid, adjusting 55-7
+rear hatch/tailgate assembly
+(Jetta wagon) 55-16
+rear lid assembly (Jetta) 55-12
+rear lid lock assembly (Jetta) 55-13
+tailgate/trunk lock assembly
+(Jetta wagon) 55-17
+tank flap unit assembly (Golf) 55-18
+tank flap unit assembly
+(Jetta and wagon) 55-19
+Ignition system-diesel
+coolant glow plugs/auxiliary heater
+28b-5
+diesel glow plug system 28b-2
+Ignition system-gasoline
+disabling ignition system 28a-2
+ignition system troubleshooting 28a-4
+quick check of ignition system 28a-5
+spark plug wires/connectors,
+checking 28a-6
+ignition system
+(1.8L engine) 28a-7
+(2.0L engine) 28a-10
+(2.8L engine) 28a-16
+knock sensors, checking resistance
+(2.8L BOF engine) 28a-19
+Immobilizer
+see Anti-theft immobilizer
+Instrument cluster
+see Instruments
+Instruments
+instrument cluster 90-2
+instrument cluster, removing and
+installing 90-3
+instrument panel overview 90-7
+malfunction recognition and
+display 90-2
+multi-pin connector terminal
+assignment 90-4
+service interval display, resetting 90-8
+Intercooler
+see Turbocharger and intercooler
+Interior lights
+see Lights, accessories-interior
+6 INDEX
+J
+Jacking vehicle
+see Maintenance, lifting
+K
+Keys
+see Front doors, comfort system
+Kick-down point, adapting ST-48
+L
+License plate light
+see Lights, accessories-exterior
+Lid
+see Hood and lids
+Lifting vehicle
+see Maintenance
+Lights, accessories-exterior
+Golf/GTI exterior lights 94-2
+headlight 94-3
+high-mount brake light 94-9
+taillight 94-7
+Golf/GTI/Jetta exterior lights 94-17
+headlight upper securing lugs 94-17
+side mounted turn signals 94-17
+license plate light 94-18
+Jetta exterior lights 94-10
+headlight 94-10
+high-mount brake light 94-14
+taillight 94-15
+Lights, accessories-interior
+anti-theft immobilizer 96-8
+door panel switches 96-3
+door warning light 96-6
+glovebox light 96-6
+headlight switch 96-2
+instrument panel light dimmer switch
+96-2
+instrument panel switches 96-4
+interior light and sunroof switch 96-5
+luggage compartment light 96-6
+mirror adjustment switch 96-3
+rear lid handle release button (Jetta)
+96-8
+rear reading light 96-5
+remote fuel tank door/rear lid unlock
+switch 96-7
+M
+Maintenance
+air filter element, replacing 0-38
+airbag unit, visual inspection 0-48
+ATF, replacing 0-45
+battery service 0-29
+body and interior maintenance 0-47
+brake fluid 0-25
+brake system, visual inspection 0-39
+brake pads (front and rear) 0-39
+coolant, checking 0-23
+door check straps and hinges,
+lubrication 0-48
+drive axles, checking boots 0-40
+dust and pollen filter, replacing 0-47
+emergency towing with commercial
+equipment 0-9
+engine identification 0-6
+engine oil, changing 0-19
+engine oil filter, replacing 0-22
+engine oil level, checking 0-18
+exhaust system, checking 0-46
+exterior lights, checking 0-47
+final drive oil level, checking 0-41
+fluid leaks 0-27
+front suspension components,
+checking 0-41
+fuel filter, replacing
+(gasoline engines) 0-27
+fuel filter, draining
+(diesel engine) 0-28
+fuel filter, replacing
+(diesel engine) 0-29
+how to use this manual 0-2
+identification plates and labels 0-4
+interior lights, checking 0-47
+lifting vehicle 0-12
+maintenance schedules 0-50
+on board diagnostics (OBO),
+checking 0-49
+parking brake, adjusting 0-40
+power steering fluid level 0-26
+ribbed v-belt 0-31
+road test 0-50
+sound absorber panels 0-16
+spark plugs, replacing 0-36
+timing belt, checking 0-35
+tire service 0-40
+transmission, checking for
+leaks 0-41
+transmission fluid (ATF) level 0-43
+transmission identification 0-7
+transmission oil level, checking
+(manual transmission) 0-42
+towing 0-9
+towing eyes 0-12
+underbody sealant, checking 0-46
+under car maintenance 0-38
+vehicle hook-up, front 0-11
+vehicle hook-up, rear 0-11
+vehicle identification number (VIN) 0-4
+warnings, cautions and notes 0-3
+windshield wipers and washers 0-49
+work safety 0-4
+working under the vehicle 0-13
+Manual transmission
+02J specifications 34-4
+02M specifications 34-8
+gear selector mechanism, 02J
+(through 05/99) 34-15
+gear selector mechanism, 02J
+(from 05/99) 34-27
+gear selector mechanism, 02M 34-38
+transmission, 02J, removing and
+installing 34-49
+transmission, 02M, removing and
+installing 34-62
+transmission code location 34-3
+Master cylinder
+see Brakes-hydraulic system
+see also Clutch
+Mirrors
+see Body-exterior equipment
+see also Trim-interior
+Moonroof
+see Sunroof
+o
+Oil
+changing 0-19
+filter 0-22
+see also Engine-lubrication system
+p
+Parking brake
+see Brakes-mechanical components
+Piston
+see Crankshaft/cylinder block
+Pollen fi Iter
+see Heating and ventillation, dust and
+pollen filter
+Power windows
+see Front doors
+see also Rear doors
+Product familiarization
+body exterior 00-14
+body interior 00-16
+electrical system 00-20
+engine and transaxle 00-7
+heating and air conditioning 00-19
+product overview (1999 model
+introduction) 00-2
+golf dimensions 00-6
+jetta dimensions 00-7
+suspension and brakes 00-10
+technical specifications 00-22
+R
+R32 supplement
+body components R32-43
+front bumper cover R32-43
+rear bumper cover R32-45
+sill panel extension R32-48
+spoilers R32-47
+engine R32-12
+chain drive R32-14
+cooling system R32-18
+cylinder block R32-13
+cylinder head R32-15
+engine number R32-12
+lubrication R32-16
+oil filter R32-17
+oil pressure R32-16
+fuel supply, injection, ignition and
+exhaust R32-20
+exhaust system R32-25
+fuel injection R32-22
+fuel supply R32-21
+ignition system R32-27
+general R32-1
+maintenance R32-5
+2004 m.y. maintenance R32-11
+ball joints, checking R32-5
+brake pads, checking R32-6
+ribbed v-belt R32-7
+sound absorber panels, removal
+R32-8
+spark plugs, replacing R32-9
+suspension and brakes R32-34
+front brakes R32-38
+front suspension R32-34
+rear brakes R32-42
+rear suspension R32-36
+transmission R32-28
+02Y transmission specifications
+R32-29
+all wheel drive control module
+R32-31
+electrical components R32-30
+haldex clutch oil and filter R32-32
+rear final drive R32-32
+Radio and communication
+cd player/changer 91-14
+cd player, terminal
+assignment 91-15
+interference suppression 91-3
+multi-function steering wheel 91-18
+radio reception 91-1
+radio system 91-3
+amplifier (monsoon) 91-6
+antenna 91-11
+radio anti-theft system 91-8
+radio head unit 91-4
+radio head unit terminal
+assignment 91-12
+speakers, removing and
+installing 91-8
+telematics 91-21
+Radio and sound system coding
+tables ST-40
+Rear hatch
+see Hood and lids
+Rear doors
+door, adjusting 58-3
+door, removing and installing 58-3
+door handle and lock assembly 58-4
+door handle, removing and
+installing 58-5
+door lock, removing 58-11
+door lock, installing 58-13
+rear door assembly 58-2
+rear door seals 58-14
+rear door windows 58-6
+Rear seats
+see Seats
+Rear suspension
+bushings 42-5
+rear coil springs 42-11
+rear shock absorber assembly 42-10
+rear shock absorbers, removing and
+installing 42-12
+rear suspension assembly 42-3
+rear wheel bearings 42-14
+Relays
+see Wiring diagrams, fuses and relays
+Remote control (locking)
+see Front doors
+s
+Scan tool (ST)
+basic settings ST-42
+kick-down point, adapting ST-48
+throttle valve control module,
+adapting ST-42
+transmission control module,
+adapting ST-47
+control module coding ST-25
+diagnostic scan tool suppliers ST-24
+on-board diagnostics II ST-1
+VAG 1551/1552 operating overview
+flow chart ST-50
+INDEX 7
+Seatbelts, airbags
+airbag control module 69-16
+airbag slip ring, removing and
+installing 69-20
+airbag system, overview 69-15
+airbag unit, front passenger, assembly
+(with seams in dash for airbag) 69-24
+airbag unit, front passenger, assembly
+(without seams in dash for airbag)
+69-25
+airbag unit in 4-spoke steering wheel,
+distinguishing features 69-16
+3-spoke steering wheel and
+airbag 69-18
+4-spoke steering wheel and
+airbag 69-17
+airbag unit in steering wheel,
+removing and installing 69-19
+airbags 69-13
+impact sensor, side airbag,
+overview 69-23
+side airbag unit safety
+harness 69-22
+special precautions for airbag
+equipped vehicles 69-13
+seatbelts 69-2
+child restraint latch guidance fixture,
+installing 69-11
+front seatbelt assembly 69-7
+rear center belt reel, removing 69-10
+rear seatbelt assembly 69-8
+rear top latch tether
+(Jetta sedan) 69-12
+seatbelts, inspecting 69-4
+special precautions for pyrotechnic
+seatbelt equipped vehicles 69-2
+Seats
+front seats 72-1
+electrically adjustable front
+seats 72-10
+front seat, removing and installing
+72-2
+front seat assembly 72-4
+front seat backrest cover and
+padding 72-8
+head restraint guides 72-5
+locking backrest assembly
+(2-door) 72-6
+seat height adjuster 72-7
+rear seats 72-13
+backrest lock 72-16
+rear backrest padding and armrest
+72-14
+rear seat backrest 72-14
+rear seat bottom 72-13
+Secondary air injection system
+see Exhaust system and emission
+controls
+Service interval display, resetting
+see Instruments
+Shift-lock
+see Automatic transmission
+Slave cylinder
+see Clutch hydraulic system assembly
+8 INDEX
+Sound system
+see Radio and communication
+Spark plugs
+see Maintenance
+Starter
+see Engine electrical system
+Steering
+ESP steering angle sensor 48-9
+ignition lock cylinder and switch,
+removing and installing 48-17
+power steering fluid reservoir 48-22
+power steering gear 48-19
+power steering gear, adjusting 48-20
+power steering hydraulic hoses 48-21
+pressure hose, mounting to manual
+transmission 48-25
+pressure hose, mounting to
+automatic transmission 48-26
+power steering pump 48-27
+power steering rack, determining
+center position 48-20
+power steering return line 48-20
+special precautions for airbag
+equipped vehicles 48-2
+steering column 48-7
+steering column switches and lock
+housing 48-13
+steering wheel, inner assembly 48-4
+steering wheel and steering column,
+installed position 48-5
+steering wheel 48-3
+tie rod, removing 48-20
+Steering wheel, multifunction 91-18
+Sunroof
+distinguishing features 60-1
+drain hoses 60-14
+drive motor 60-8
+glass panel 60-3
+parallel movement 60-11
+rockwell/meritor sunroof 60-12
+sliding headliner 60-7
+sunroof switch 60-9
+webasto sunroof 60-10
+Suspension, front
+see Front suspension and drive axles
+Suspension, rear
+see Rear suspension
+T
+Taillight
+see Lights, accessories-exterior
+TCM coding ST-28
+Telematics
+see Radio and communication
+Throttle valve control module,
+adapting ST-42
+Timing belt (toothed belt)
+checking 0-35
+removing and installing
+1.8L engine 15a-19
+1.9L engine 15b-16
+2.0L engine 15c-18
+Timing chain (Camshaft drive chain)
+AFP engine 15d-17
+BDF engine 15d-52
+Tires
+see Wheels-tires, wheel alignment
+Torque converter
+torque converter, draining 32-8
+torque converter
+identification (01M) 32-2
+torque converter
+identification (09A) 32-3
+torque converter installing (09A) 32-7
+torque converter oil seal replacement
+(01M) 32-4
+torque converter oil seal replacement
+(09A) 32-5
+turbine shaft sleeve bearing removal
+(01M) 32-6
+Trailer hitch
+see Bumpers
+Transmission, automatic
+see Automatic transmission
+Transmission, manual
+see Manual transmission
+Transmission control module,
+adapting ST-47
+Trim-Interior
+center console 70-2
+center console assembly 70-2
+center console extension 70-3
+front ashtray, removing 70-5
+front center armrest, removing 70-4
+rear ashtray, removing 70-5
+rear cupholder, removing and
+installing 70-6
+headliner, removing and installing
+70-40
+instrument panel 70-33
+interior equipment 70-6
+automatic dimming mirror 70-8
+front cup holder, removing 70-6
+glovebox, removing 70-7
+interior mirror 70-8
+roof handle, removing 70-10
+sun visors, removing 70-11
+luggage compartment trim 70-26
+rear lid trim 70-27
+rear lock carrier trim 70-29
+right-side luggage compartment trim
+70-31
+passenger compartment trim 70-11
+a-pillar trim 70-11
+b-pillar trim 70-13
+c-pillar trim 70-15
+d-pillar trim 70-19
+driver's door panel 70-19
+front door window triangular trim
+(with speaker), removing 70-22
+inner wheel housing trim 70-22
+parcel shelf trim (Jetta) 70-23
+passenger door panel, removing
+and installing 70-21
+rear door panel 70-23
+rear side trim (2-door Golf) 70-24
+sill panel trim 70-25
+steering column lower trim 70-24
+Turbocharger and intercooler
+intercooler 21-13
+recirculating valve, checking
+(1.8L engine) 21-5
+turbo boost pressure, checking 21-3
+turbocharger assembly (1.8L engine)
+21-6
+turbocharger assembly (1.9L engine)
+21-11
+turbocharger diagnostics 21-2
+turbocharger hose connections
+(1.8L engine) 21-8
+turbocharger hose connections
+(1.9L engine) 21-13
+wastegate by-pass regulator valve,
+checking 21-4
+v
+Vehicle Identification Number (VIN)
+see Maintenance
+see also Foreword
+Ventilation
+see Heating and ventilation
+Voltage, interruption of
+see Engine electrical system
+w
+Water pump
+see Engine-cooling system, coolant
+pump
+Wheel alignment
+see Wheels-tires, wheel alignment
+Wheel bearing
+see Front suspension and drive axles
+see also Rear suspension
+
+Wheels-tires, Wheel Alignment
+alignment requirements 44-5
+alloy wheel trim (GTI) 44-3
+front axle camber, adjusting 44-8
+front axle toe, adjusting 44-9
+rear axle toe, adjusting 44-9
+suspension type 44-7
+thrust angle, calculating 44-8
+wheel alignment 44-3
+wheel lock, left and right,
+checking 44-10
+wheel seat protection 44-2
+wheels and tires 44-1
+Windows
+see Front doors
+see also Rear doors
+Wipers and washers
+"aero-wiper" blades, removing and
+installing 92-2
+rear wiper assembly 92-6
+rubber wiper inserts, replacing 92-2
+windshield washer system 92-7
+windshield washer jets 92-7
+windshield washer reservoir 92-9
+wiper arm, front, removing and
+installing 92-3
+wiper motor, front, removing and
+installing 92-4
+Wiring Diagrams, Fuses and Relays
+component locations 97-7
+fuses and relays 97-2
+fuse panel, removing/installing 97-4
+ground locations 97-6
+how to read wiring diagrams 97-12
+indexes (by model year)
+1999 97-16
+200097-22
+2001-2002 97-30
+2003-2005 97-30
+relay panel, removing/installing 97-5
+relay positions 97-3
+symbols used in wiring diagrams
+97-14
+using wiring diagrams 97-9
+wiring diagram layout 97-11

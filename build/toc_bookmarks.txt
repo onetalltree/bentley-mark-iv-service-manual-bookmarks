@@ -422,31 +422,3 @@ BookmarkBegin
 BookmarkTitle: 97-878 ... No. 81/16 (Lanes 197 - 210)
 BookmarkLevel: 3
 BookmarkPageNumber: 1808
-BookmarkBegin
-BookmarkTitle: SPECIFIC WIRING DIAGRAMS
-BookmarkLevel: 1
-BookmarkPageNumber: 
-BookmarkBegin
-BookmarkTitle: Windshield wiper/washer switch
-BookmarkLevel: 2
-BookmarkPageNumber: 1400
-BookmarkBegin
-BookmarkTitle: 1.9L engine (code SEW) with manual trans. from May 2003
-BookmarkLevel: 2
-BookmarkPageNumber: 1754
-BookmarkBegin
-BookmarkTitle: 97-778 ... 2004-2005 Additional electrical wiring diagrams
-BookmarkLevel: 2
-BookmarkPageNumber: 1758
-BookmarkBegin
-BookmarkTitle: 97-867 ... 81/3 Glow plug activation control module, engine glow 
-BookmarkLevel: 2
-BookmarkPageNumber: 1802
-BookmarkBegin
-BookmarkTitle: 97-869 ... G28 - Engine Speed (RPM) Sensor
-BookmarkLevel: 2
-BookmarkPageNumber: 1803
-BookmarkBegin
-BookmarkTitle: 97-871 ... G40 - Camshaft Position (CMP) Sensor
-BookmarkLevel: 2
-BookmarkPageNumber: 1804
