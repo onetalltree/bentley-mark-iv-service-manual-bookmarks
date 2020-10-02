@@ -10,7 +10,7 @@ ADDITIONAL_DIR = $(DATA_DIR)/Additional
 BUILD_DIR = ./build
 OUT_DIR = .
 
-$(OUT_DIR)/bookmarks.txt: $(BUILD_DIR)/toc_bookmarks.txt $(BUILD_DIR)/additional_bookmarks.txt
+$(OUT_DIR)/bookmarks.txt: $(BUILD_DIR)/toc_bookmarks.txt $(BUILD_DIR)/additional_bookmarks.txt $(BUILD_DIR)/index_bookmarks.txt
 	cat $^ > $@
 
 # Table of contents bookmarks
@@ -31,3 +31,13 @@ $(BUILD_DIR)/additional_bookmarks.txt : $(ADDITIONAL_DIR)/bookmarks.json
 
 $(ADDITIONAL_DIR)/bookmarks.json: $(ADDITIONAL_DIR)/bookmarks.csv
 	$(PYTHON) $(SRC_DIR)/toc_convert_csv_to_json.py < $? > $@
+
+# Index bookmarks
+
+$(BUILD_DIR)/index_bookmarks.txt: $(INDEX_DIR)/processed.json
+	$(PYTHON) $(SRC_DIR)/index_generate_bookmarks.py < $? > $@
+
+.PHONY: $(INDEX_DIR)/processed.json
+
+$(INDEX_DIR)/processed.json: $(INDEX_DIR)/raw.txt
+	$(PYTHON) $(SRC_DIR)/index_process_raw.py < $? > $@

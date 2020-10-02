@@ -18,6 +18,8 @@ NOTE: Due to copyright issues, the PDF is not included in this repository.
 │   ├───Additional
 │   ├───Index
 │   └───TableOfContents
+└───pdf
+
 ```
 
 * definitions: contains the raw and processed definitions files
@@ -26,6 +28,8 @@ NOTE: Due to copyright issues, the PDF is not included in this repository.
   * Additional: contains definitions for places of interest
 
 * build: contains files in the PdfTk bookmark format
+
+* pdf: put your PDF files in here
 
 * The final bookmark file needed by PdfTk is stored in the root, called "bookmarks.txt"
 

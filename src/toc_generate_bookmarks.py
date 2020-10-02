@@ -28,4 +28,4 @@ for bookmarkDef in bookmarkDefinitions:
         print(f'BookmarkLevel: {bookmarkDef["toc_level"]}')
         print(f'BookmarkPageNumber: {bookmarkDef["pdf_page"]}')
     else:
-        print(f'Line {bookmarkDef["line_number"]}: unexpected bookmark type {bookmarkDef["type"]}', file=sys.stderr)
+        print(f'Line {bookmarkDef["line"]}: unexpected bookmark type {bookmarkDef["type"]}', file=sys.stderr)
