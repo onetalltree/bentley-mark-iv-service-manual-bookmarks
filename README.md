@@ -15,19 +15,13 @@ NOTE: Due to copyright issues, the PDF is not included in this repository.
 .../BENTLEY-MARK-IV-SERVICE-MANUAL-BOOKMARKS
 ├───build
 ├───definitions
-│   ├───Additional
-│   ├───Index
-│   └───TableOfContents
 └───pdf
 
 ```
 
-* definitions: contains the raw and processed definitions files
-  * TableOfContents: contains definitions for the table of contents
-  * Index: contains defintions for the index
-  * Additional: contains definitions for places of interest
+* definitions: contains the raw definition files
 
-* build: contains files in the PdfTk bookmark format
+* build: contains intermediate JSON files built from the raw definition files and intermediate PdfTk bookmark files
 
 * pdf: put your PDF files in here
 
