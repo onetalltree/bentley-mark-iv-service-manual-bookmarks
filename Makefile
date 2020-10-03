@@ -2,42 +2,49 @@ PYTHON = python3
 
 SRC_DIR = ./src
 
-DATA_DIR = ./definitions
-TOC_DIR = $(DATA_DIR)/TableOfContents
-INDEX_DIR = $(DATA_DIR)/Index
-ADDITIONAL_DIR = $(DATA_DIR)/Additional
-
+DEFINITIONS_DIR = ./definitions
 BUILD_DIR = ./build
 OUT_DIR = .
+
+all: $(OUT_DIR)/bookmarks.txt $(BUILD_DIR)/section_page_numbers.json
+
 
 $(OUT_DIR)/bookmarks.txt: $(BUILD_DIR)/toc_bookmarks.txt $(BUILD_DIR)/additional_bookmarks.txt $(BUILD_DIR)/index_bookmarks.txt
 	cat $^ > $@
 
-# Table of contents bookmarks
+# Section page numbers
 
-$(BUILD_DIR)/toc_bookmarks.txt: $(TOC_DIR)/bookmarks.json
+.PHONY: $(BUILD_DIR)/section_page_numbers.json
+
+$(BUILD_DIR)/section_page_numbers.json: $(BUILD_DIR)/toc_entries.json
+	$(PYTHON) $(SRC_DIR)/extract_section_page_numbers.py < $? > $@
+
+# Table of contents
+
+$(BUILD_DIR)/toc_bookmarks.txt: $(BUILD_DIR)/toc_entries.json
 	@mkdir -p $(BUILD_DIR)
 	$(PYTHON) $(SRC_DIR)/toc_generate_bookmarks.py < $? > $@
 
-$(TOC_DIR)/bookmarks.json: $(TOC_DIR)/bookmarks.csv
+$(BUILD_DIR)/toc_entries.json: $(DEFINITIONS_DIR)/TableOfContents.csv
 	$(PYTHON) $(SRC_DIR)/toc_convert_csv_to_json.py < $? > $@
 
 # Additional bookmarks
 # NOTE: The additional bookmarks csv & json files use the Table of Contents structure
 
-$(BUILD_DIR)/additional_bookmarks.txt : $(ADDITIONAL_DIR)/bookmarks.json
+$(BUILD_DIR)/additional_bookmarks.txt : $(BUILD_DIR)/additional_entries.json
 	@mkdir -p $(BUILD_DIR)
 	$(PYTHON) $(SRC_DIR)/toc_generate_bookmarks.py < $? > $@
 
-$(ADDITIONAL_DIR)/bookmarks.json: $(ADDITIONAL_DIR)/bookmarks.csv
+$(BUILD_DIR)/additional_entries.json: $(DEFINITIONS_DIR)/Additional.csv
 	$(PYTHON) $(SRC_DIR)/toc_convert_csv_to_json.py < $? > $@
 
 # Index bookmarks
 
-$(BUILD_DIR)/index_bookmarks.txt: $(INDEX_DIR)/processed.json
+$(BUILD_DIR)/index_bookmarks.txt: $(BUILD_DIR)/index_entries.json
 	$(PYTHON) $(SRC_DIR)/index_generate_bookmarks.py < $? > $@
 
-.PHONY: $(INDEX_DIR)/processed.json
+.PHONY: $(BUILD_DIR)/index_entries.json
 
-$(INDEX_DIR)/processed.json: $(INDEX_DIR)/raw.txt
-	$(PYTHON) $(SRC_DIR)/index_process_raw.py < $? > $@
+$(BUILD_DIR)/index_entries.json: $(DEFINITIONS_DIR)/Index.txt $(BUILD_DIR)/section_page_numbers.json
+	$(PYTHON) $(SRC_DIR)/index_process_raw.py $(BUILD_DIR)/section_page_numbers.json < $< > $@
+

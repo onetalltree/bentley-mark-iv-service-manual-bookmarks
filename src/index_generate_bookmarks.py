@@ -21,16 +21,26 @@ print(f'BookmarkLevel: 1')
 print(f'BookmarkPageNumber: ')
 
 for data in indexSourceData:
-    if data["type"]=='section':
+    pdfPageNumber = data['pdfPageNumber'] if 'pdfPageNumber' in data.keys() else None
+
+    if data["type"]=='section letter':
         print('BookmarkBegin')
         print(f"BookmarkTitle: {data['section_name']}")
         print(f'BookmarkLevel: 2')
         print(f'BookmarkPageNumber: ')
+    elif data["type"]=='section':
+        print('BookmarkBegin')
+        print(f"BookmarkTitle: {data['section_name']}")
+        print(f'BookmarkLevel: 3')
+        print(f'BookmarkPageNumber: ')
     elif data["type"]=='index':
         print('BookmarkBegin')
-        print(f"BookmarkTitle: {data['section_name']} [{data['sectionNumber']} - {data['sectionPageNumber']}]")
-        print(f'BookmarkLevel: 2')
-        print(f'BookmarkPageNumber: ')
+        print(f"BookmarkTitle: {data['section_name']} ... {data['sectionNumber']}-{data['sectionPageNumber']}")
+        print(f'BookmarkLevel: 4')
+        if pdfPageNumber != None:
+            print(f'BookmarkPageNumber: {pdfPageNumber}')
+        else:
+            print(f'BookmarkPageNumber: ')
     elif data["type"]=='no numbering':
         print('BookmarkBegin')
         print(f"BookmarkTitle: {data['section_name']}")
@@ -39,12 +49,12 @@ for data in indexSourceData:
     elif data["type"]=='see':
         print('BookmarkBegin')
         print(f"BookmarkTitle: see: {data['reference']}")
-        print(f'BookmarkLevel: 3')
+        print(f'BookmarkLevel: 4')
         print(f'BookmarkPageNumber: ')
     elif data["type"]=='see also':
         print('BookmarkBegin')
         print(f"BookmarkTitle: see also: {data['reference']}")
-        print(f'BookmarkLevel: 3')
+        print(f'BookmarkLevel: 4')
         print(f'BookmarkPageNumber: ')
     else:
         print(f'Line {data["line"]}: unexpected type {data["type"]}', file=sys.stderr)

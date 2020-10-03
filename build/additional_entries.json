@@ -4,7 +4,9 @@
         "type": "toc_entry",
         "toc_level": "1",
         "toc_description": "SPECIFIC WIRING DIAGRAMS",
-        "document_page": "",
+        "sectionNumbers": "",
+        "sectionNumber": "",
+        "sectionPageNumber": null,
         "pdf_page": ""
     },
     {
@@ -12,7 +14,9 @@
         "type": "toc_entry",
         "toc_level": "2",
         "toc_description": "Windshield wiper/washer switch",
-        "document_page": "",
+        "sectionNumbers": "",
+        "sectionNumber": "",
+        "sectionPageNumber": null,
         "pdf_page": "1400"
     },
     {
@@ -20,7 +24,9 @@
         "type": "toc_entry",
         "toc_level": "2",
         "toc_description": "1.9L engine (code SEW) with manual trans. from May 2003",
-        "document_page": "",
+        "sectionNumbers": "",
+        "sectionNumber": "",
+        "sectionPageNumber": null,
         "pdf_page": "1754"
     },
     {
@@ -28,7 +34,9 @@
         "type": "toc_entry",
         "toc_level": "2",
         "toc_description": "2004-2005 Additional electrical wiring diagrams",
-        "document_page": "97-778",
+        "sectionNumbers": "97-778",
+        "sectionNumber": "97",
+        "sectionPageNumber": "778",
         "pdf_page": "1758"
     },
     {
@@ -36,7 +44,9 @@
         "type": "toc_entry",
         "toc_level": "2",
         "toc_description": "81/3 Glow plug activation control module, engine glow ",
-        "document_page": "97-867",
+        "sectionNumbers": "97-867",
+        "sectionNumber": "97",
+        "sectionPageNumber": "867",
         "pdf_page": "1802"
     },
     {
@@ -44,7 +54,9 @@
         "type": "toc_entry",
         "toc_level": "2",
         "toc_description": "G28 - Engine Speed (RPM) Sensor",
-        "document_page": "97-869",
+        "sectionNumbers": "97-869",
+        "sectionNumber": "97",
+        "sectionPageNumber": "869",
         "pdf_page": "1803"
     },
     {
@@ -52,7 +64,9 @@
         "type": "toc_entry",
         "toc_level": "2",
         "toc_description": "G40 - Camshaft Position (CMP) Sensor",
-        "document_page": "97-871",
+        "sectionNumbers": "97-871",
+        "sectionNumber": "97",
+        "sectionPageNumber": "871",
         "pdf_page": "1804"
     }
 ]

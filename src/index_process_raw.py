@@ -2,6 +2,23 @@ import sys
 import json
 import re
 
+# Synopsis
+
+# index_process_raw <section page file> < raw
+# Read the section page numbers
+sections = {}
+
+sectionPageNumberFile = open(sys.argv[1], "r")
+sectionPageNumbers = json.loads(sectionPageNumberFile.read())
+
+for s in sectionPageNumbers:
+    try:
+        pdfPageNumber = int(s["pdfPageNumber"])
+        sections[s["sectionNumber"]] = pdfPageNumber
+    except:
+        pass
+
+
 def remove_prefix(string, prefix):
     if string.find(prefix, 0) == 0:
         string = string[len(prefix):]
@@ -11,7 +28,7 @@ def remove_prefix(string, prefix):
 # get the section-page from the line, if present
 # returns a tuple (section number, section page number, match start)
 def get_document_page_numbers(line):
-    match = re.search("\d+-\d+", line)
+    match = re.search(r"\w+-\d+", line)
 
     if match==None:
         return None
@@ -20,9 +37,9 @@ def get_document_page_numbers(line):
         return (d[0], d[1], match.start())
 
 
+
 index = []
 line_number = 0
-previous_line = ""
 
 for line in sys.stdin:
     line_number+=1
@@ -42,7 +59,7 @@ for line in sys.stdin:
         matchStart = None
 
     if len(line) == 1:
-        o = { "line" : line_number, "type" : "section", "section_name" : line.upper() }
+        o = { "line" : line_number, "type" : "section letter", "section_name" : line.upper() }
         index.append(o)
     elif line.find("see also ", 0) == 0:
         o = { "line" : line_number, "type" : "see also", "reference" : remove_prefix(line, "see also").strip() }
@@ -52,11 +69,14 @@ for line in sys.stdin:
         index.append(o)
     elif numberingAvailable:
         o = { "line" : line_number, "type" : "index", "section_name" : line[0:matchStart].strip(), "sectionNumber":sectionNumber, "sectionPageNumber":sectionPageNumber}
+
+        if sectionNumber in sections.keys():
+            pdfPageNumber = sections[sectionNumber] + int(sectionPageNumber)-1
+            o["pdfPageNumber"] = pdfPageNumber
+
         index.append(o)
     else:
-        o = { "line" : line_number, "type" : "no numbering", "section_name" : line.strip() }
+        o = { "line" : line_number, "type" : "section", "section_name" : line.strip() }
         index.append(o)
-
-    previous_line = line
 
 print(json.dumps(index, indent=4))
