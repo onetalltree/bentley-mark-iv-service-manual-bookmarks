@@ -40,16 +40,26 @@ The build system is managed by a Makefile stored in the root directory.
 
 Due to copyright, the actual PDF is not available in this repository.
 
-* Place the source pdf in the pdf directory
-* Name the pdf ```Bentley_VolkswagenJettaGolfGTI_MK4ServiceManual_1999-2005.pdf```
+I have created a windows bat file and a powershell script. They are actually identical files.
 
-* There are a variety of ways to add the bookmarks to the PDF:
-  * Windows bat file
-    * Open a Windows command prompt in the root directory (where this README.md file exists)
-    * Run  ```add_bookmarks_to_pdf.bat```
-  * Windows powershell script
-    * Open a Windows PowerShell prompt in the root directory
-    * Run ```add_bookmarks_to_pdf.ps1```
+### Instructions if you download selected files from the repository
+
+* Download the file ```bookmarks.txt```
+* Download the file ```add_bookmarks_to_pdf.ps1```
+* Place the source pdf in the same directory as the two files you downloaded
+  * Name the pdf ```Bentley_VolkswagenJettaGolfGTI_MK4ServiceManual_1999-2005.pdf```
+* Shift+Right Click on that folder (where everything is stored) and choose the option--->Open Powershell Window Here
+* Run the script ```add_bookmarks_to_pdf.ps1```
+  * suggestion: type "ad" and then hit the tab key ... powershell should auto-complete ... then hit enter to run the script
+
+### Instructions if you clone the repository
+
+* Clone the repository
+* Place the source pdf in the same directory as the two files you downloaded
+  * Name the pdf ```Bentley_VolkswagenJettaGolfGTI_MK4ServiceManual_1999-2005.pdf```
+* Shift+Right Click on that folder (where everything is stored) and choose the option--->Open Powershell Window Here
+* Run the script ```add_bookmarks_to_pdf.ps1```
+  * suggestion: type "ad" and then hit the tab key ... powershell should auto-complete ... then hit enter to run the script
 
 ### Warnings
 
