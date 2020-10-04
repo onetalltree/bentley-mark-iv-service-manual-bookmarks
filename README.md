@@ -40,11 +40,18 @@ The build system is managed by a Makefile stored in the root directory.
 
 Due to copyright, the actual PDF is not available in this repository.
 
-Use the script or the command in the Powershell script "add_bookmarks_to_pdf.ps1" to add the bookmarks into your PDF.
+* Place the source pdf in the pdf directory
+* Name the pdf ```Bentley_VolkswagenJettaGolfGTI_MK4ServiceManual_1999-2005.pdf```
 
-* The script expects the bookmarks file and the pdf file to be in the same directory.
-* It expects the pdf to be named "Bentley_VolkswagenJettaGolfGTI_MK4ServiceManual_1999-2005.pdf"
-* It expects the bookmarks file to be named "bookmarks.txt"
+* There are a variety of ways to add the bookmarks to the PDF:
+  * Windows bat file
+    * Open a Windows command prompt in the root directory (where this README.md file exists)
+    * Run  ```add_bookmarks_to_pdf.bat```
+  * Windows powershell script
+    * Open a Windows PowerShell prompt in the root directory
+    * Run ```add_bookmarks_to_pdf.ps1```
+
+### Warnings
 
 PdfTk requires that the bookmarks.txt file be in Ascii (not unicode). If it generates the message:
 

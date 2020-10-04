@@ -1,29 +1,29 @@
 BookmarkBegin
-BookmarkTitle: TABLE OF CONTENTS
+BookmarkTitle:  ... TABLE OF CONTENTS
 BookmarkLevel: 1
 BookmarkPageNumber: 3
 BookmarkBegin
-BookmarkTitle: ii ... Important Safety Notice
-BookmarkLevel: 1
+BookmarkTitle: -ii ... Important Safety Notice
+BookmarkLevel: 2
 BookmarkPageNumber: 2
 BookmarkBegin
-BookmarkTitle: v ... Foreword and Disclaimer
-BookmarkLevel: 1
+BookmarkTitle: -v ... Foreword and Disclaimer
+BookmarkLevel: 2
 BookmarkPageNumber: 5
 BookmarkBegin
-BookmarkTitle: vi ... Vehicle Identification and VIN Decoder
-BookmarkLevel: 1
+BookmarkTitle: -vi ... Vehicle Identification and VIN Decoder
+BookmarkLevel: 2
 BookmarkPageNumber: 6
 BookmarkBegin
-BookmarkTitle: vii ... Warnings and Cautions
-BookmarkLevel: 1
+BookmarkTitle: -vii ... Warnings and Cautions
+BookmarkLevel: 2
 BookmarkPageNumber: 7
 BookmarkBegin
-BookmarkTitle: 0 ... Overview, Maintenance
+BookmarkTitle: 00 ... Overview, Maintenance
 BookmarkLevel: 1
 BookmarkPageNumber: 9
 BookmarkBegin
-BookmarkTitle: 0 ... Golf, GTI and Jetta Product Familiarization
+BookmarkTitle: 00 ... Golf, GTI and Jetta Product Familiarization
 BookmarkLevel: 2
 BookmarkPageNumber: 9
 BookmarkBegin
@@ -311,7 +311,7 @@ BookmarkTitle: 9 ... Electrical System
 BookmarkLevel: 1
 BookmarkPageNumber: 1297
 BookmarkBegin
-BookmarkTitle: 9 ... General Information
+BookmarkTitle: 90 ... General Information
 BookmarkLevel: 1
 BookmarkPageNumber: 1297
 BookmarkBegin
@@ -351,11 +351,27 @@ BookmarkTitle: 97-7 ... Component Locations
 BookmarkLevel: 2
 BookmarkPageNumber: 1371
 BookmarkBegin
-BookmarkTitle: ST Scan Tool
+BookmarkTitle:  ... Electrical Wiring Diagram Index
 BookmarkLevel: 2
 BookmarkPageNumber: 
 BookmarkBegin
-BookmarkTitle: 97-865 ... WIRING DIAGRAMS
+BookmarkTitle: 97-16 ... 1999 Models
+BookmarkLevel: 3
+BookmarkPageNumber: 1377
+BookmarkBegin
+BookmarkTitle: 97-22 ... 2000 models
+BookmarkLevel: 3
+BookmarkPageNumber: 1380
+BookmarkBegin
+BookmarkTitle: 97-30 ... 2001-2002 models
+BookmarkLevel: 3
+BookmarkPageNumber: 1384
+BookmarkBegin
+BookmarkTitle: 97-760 ... 2003-2005 models
+BookmarkLevel: 3
+BookmarkPageNumber: 1749
+BookmarkBegin
+BookmarkTitle: 97-865 ... WIRING DIAGRAMS (JETTA TDI BEW MT ONLY)
 BookmarkLevel: 1
 BookmarkPageNumber: 1801
 BookmarkBegin
@@ -423,7 +439,11 @@ BookmarkTitle: 97-878 ... No. 81/16 (Lanes 197 - 210)
 BookmarkLevel: 3
 BookmarkPageNumber: 1808
 BookmarkBegin
-BookmarkTitle: SPECIFIC WIRING DIAGRAMS
+BookmarkTitle: ST ... ST Scan Tool
+BookmarkLevel: 2
+BookmarkPageNumber: 1871
+BookmarkBegin
+BookmarkTitle: SELECTED WIRING DIAGRAMS (2005 Jetta TDI)
 BookmarkLevel: 1
 BookmarkPageNumber: 
 BookmarkBegin
@@ -435,19 +455,19 @@ BookmarkTitle: 1.9L engine (code SEW) with manual trans. from May 2003
 BookmarkLevel: 2
 BookmarkPageNumber: 1754
 BookmarkBegin
-BookmarkTitle: 97-778 ... 2004-2005 Additional electrical wiring diagrams
+BookmarkTitle: 97 ... 2004-2005 Additional electrical wiring diagrams
 BookmarkLevel: 2
 BookmarkPageNumber: 1758
 BookmarkBegin
-BookmarkTitle: 97-867 ... 81/3 Glow plug activation control module, engine glow 
+BookmarkTitle: 97 ... 81/3 Glow plug activation control module, engine glow 
 BookmarkLevel: 2
 BookmarkPageNumber: 1802
 BookmarkBegin
-BookmarkTitle: 97-869 ... G28 - Engine Speed (RPM) Sensor
+BookmarkTitle: 97 ... G28 - Engine Speed (RPM) Sensor
 BookmarkLevel: 2
 BookmarkPageNumber: 1803
 BookmarkBegin
-BookmarkTitle: 97-871 ... G40 - Camshaft Position (CMP) Sensor
+BookmarkTitle: 97 ... G40 - Camshaft Position (CMP) Sensor
 BookmarkLevel: 2
 BookmarkPageNumber: 1804
 BookmarkBegin
@@ -469,65 +489,65 @@ BookmarkPageNumber:
 BookmarkBegin
 BookmarkTitle: ABS/EDUASR/ESP coding tables ... ST-29
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1899
 BookmarkBegin
-BookmarkTitle: Air conditioning (Ale)
+BookmarkTitle: Air conditioning (A/C)
 BookmarkLevel: 3
 BookmarkPageNumber: 
 BookmarkBegin
-BookmarkTitle: AlC, heating and ventilation controls ... 87-23
+BookmarkTitle: A/C, heating and ventilation controls ... 87-23
 BookmarkLevel: 4
 BookmarkPageNumber: 1273
 BookmarkBegin
-BookmarkTitle: AlC clutch ... 87-38
+BookmarkTitle: A/C clutch ... 87-38
 BookmarkLevel: 4
 BookmarkPageNumber: 1288
 BookmarkBegin
-BookmarkTitle: AlC components, underhood ... 87-32
+BookmarkTitle: A/C components, underhood ... 87-32
 BookmarkLevel: 4
 BookmarkPageNumber: 1282
 BookmarkBegin
-BookmarkTitle: AlC compressor ... 87-34
+BookmarkTitle: A/C compressor ... 87-34
 BookmarkLevel: 4
 BookmarkPageNumber: 1284
 BookmarkBegin
-BookmarkTitle: AlC passenger compartment components (climatronic) ... 87-24
+BookmarkTitle: A/C passenger compartment components (climatronic) ... 87-24
 BookmarkLevel: 4
 BookmarkPageNumber: 1274
 BookmarkBegin
-BookmarkTitle: AlC pressure switches, checking ... 87-9
+BookmarkTitle: A/C pressure switches, checking ... 87-9
 BookmarkLevel: 4
 BookmarkPageNumber: 1259
 BookmarkBegin
-BookmarkTitle: AlC refrigerant circuit, ... 87-2
+BookmarkTitle: A/C refrigerant circuit, ... 87-2
 BookmarkLevel: 4
 BookmarkPageNumber: 1252
 BookmarkBegin
-BookmarkTitle: AlC refrigerant system ... 87-5
+BookmarkTitle: A/C refrigerant system ... 87-5
 BookmarkLevel: 4
 BookmarkPageNumber: 1255
 BookmarkBegin
-BookmarkTitle: AlC refrigerant system, replacing components ... 87-12
+BookmarkTitle: A/C refrigerant system, replacing components ... 87-12
 BookmarkLevel: 4
 BookmarkPageNumber: 1262
 BookmarkBegin
-BookmarkTitle: AlC refrigerant system servicing ... 87-16
+BookmarkTitle: A/C refrigerant system servicing ... 87-16
 BookmarkLevel: 4
 BookmarkPageNumber: 1266
 BookmarkBegin
-BookmarkTitle: AlC refrigerant system, discharging and charging ... 87-21
+BookmarkTitle: A/C refrigerant system, discharging and charging ... 87-21
 BookmarkLevel: 4
 BookmarkPageNumber: 1271
 BookmarkBegin
-BookmarkTitle: AlC refrigerant system, flushing ... 87-22
+BookmarkTitle: A/C refrigerant system, flushing ... 87-22
 BookmarkLevel: 4
 BookmarkPageNumber: 1272
 BookmarkBegin
-BookmarkTitle: AlC system, troubleshooting ... 87-18
+BookmarkTitle: A/C system, troubleshooting ... 87-18
 BookmarkLevel: 4
 BookmarkPageNumber: 1268
 BookmarkBegin
-BookmarkTitle: AlC system odor, checking ... 87-16
+BookmarkTitle: A/C system odor, checking ... 87-16
 BookmarkLevel: 4
 BookmarkPageNumber: 1266
 BookmarkBegin
@@ -601,7 +621,7 @@ BookmarkPageNumber:
 BookmarkBegin
 BookmarkTitle: Airbag system coding tables ... ST-32
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1902
 BookmarkBegin
 BookmarkTitle: Airbags
 BookmarkLevel: 3
@@ -1189,7 +1209,7 @@ BookmarkPageNumber:
 BookmarkBegin
 BookmarkTitle: Convenience system coding tables ... ST-37
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1907
 BookmarkBegin
 BookmarkTitle: Coolant pump
 BookmarkLevel: 3
@@ -1805,7 +1825,7 @@ BookmarkPageNumber:
 BookmarkBegin
 BookmarkTitle: DTC table ... ST-2
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1872
 BookmarkBegin
 BookmarkTitle: Dust and pollen filter
 BookmarkLevel: 3
@@ -1821,7 +1841,7 @@ BookmarkPageNumber:
 BookmarkBegin
 BookmarkTitle: Engine Control Module (ECM) coding tables ... ST-25
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1895
 BookmarkBegin
 BookmarkTitle: EGR
 BookmarkLevel: 3
@@ -3169,7 +3189,7 @@ BookmarkPageNumber:
 BookmarkBegin
 BookmarkTitle: Kick-down point, adapting ... ST-48
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1918
 BookmarkBegin
 BookmarkTitle: L
 BookmarkLevel: 2
@@ -3669,43 +3689,43 @@ BookmarkPageNumber:
 BookmarkBegin
 BookmarkTitle: body exterior ... 00-14
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 22
 BookmarkBegin
 BookmarkTitle: body interior ... 00-16
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 24
 BookmarkBegin
 BookmarkTitle: electrical system ... 00-20
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 28
 BookmarkBegin
 BookmarkTitle: engine and transaxle ... 00-7
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 15
 BookmarkBegin
 BookmarkTitle: heating and air conditioning ... 00-19
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 27
 BookmarkBegin
 BookmarkTitle: product overview (1999 model introduction) ... 00-2
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 10
 BookmarkBegin
 BookmarkTitle: golf dimensions ... 00-6
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 14
 BookmarkBegin
 BookmarkTitle: jetta dimensions ... 00-7
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 15
 BookmarkBegin
 BookmarkTitle: suspension and brakes ... 00-10
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 18
 BookmarkBegin
 BookmarkTitle: technical specifications ... 00-22
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 30
 BookmarkBegin
 BookmarkTitle: R
 BookmarkLevel: 2
@@ -3929,7 +3949,7 @@ BookmarkPageNumber: 1325
 BookmarkBegin
 BookmarkTitle: Radio and sound system coding tables ... ST-40
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1910
 BookmarkBegin
 BookmarkTitle: Rear hatch
 BookmarkLevel: 3
@@ -4041,35 +4061,35 @@ BookmarkPageNumber:
 BookmarkBegin
 BookmarkTitle: basic settings ... ST-42
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1912
 BookmarkBegin
 BookmarkTitle: kick-down point, adapting ... ST-48
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1918
 BookmarkBegin
 BookmarkTitle: throttle valve control module, adapting ... ST-42
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1912
 BookmarkBegin
 BookmarkTitle: transmission control module, adapting ... ST-47
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1917
 BookmarkBegin
 BookmarkTitle: control module coding ... ST-25
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1895
 BookmarkBegin
 BookmarkTitle: diagnostic scan tool suppliers ... ST-24
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1894
 BookmarkBegin
 BookmarkTitle: on-board diagnostics II ... ST-1
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1871
 BookmarkBegin
 BookmarkTitle: VAG 1551/1552 operating overview flow chart ... ST-50
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1920
 BookmarkBegin
 BookmarkTitle: INDEX 7
 BookmarkLevel: 3
@@ -4433,7 +4453,7 @@ BookmarkPageNumber:
 BookmarkBegin
 BookmarkTitle: TCM coding ... ST-28
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1898
 BookmarkBegin
 BookmarkTitle: Telematics
 BookmarkLevel: 3
@@ -4449,7 +4469,7 @@ BookmarkPageNumber:
 BookmarkBegin
 BookmarkTitle: adapting ... ST-42
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1912
 BookmarkBegin
 BookmarkTitle: Timing belt (toothed belt)
 BookmarkLevel: 3
@@ -4557,7 +4577,7 @@ BookmarkPageNumber:
 BookmarkBegin
 BookmarkTitle: Transmission control module, adapting ... ST-47
 BookmarkLevel: 4
-BookmarkPageNumber: 
+BookmarkPageNumber: 1917
 BookmarkBegin
 BookmarkTitle: Trim-Interior
 BookmarkLevel: 3
@@ -4915,30 +4935,6 @@ BookmarkTitle: ground locations ... 97-6
 BookmarkLevel: 4
 BookmarkPageNumber: 1370
 BookmarkBegin
-BookmarkTitle: how to read wiring diagrams ... 97-12
-BookmarkLevel: 4
-BookmarkPageNumber: 1376
-BookmarkBegin
-BookmarkTitle: indexes (by model year)
-BookmarkLevel: 3
-BookmarkPageNumber: 
-BookmarkBegin
-BookmarkTitle: 1999 ... 97-16
-BookmarkLevel: 4
-BookmarkPageNumber: 1380
-BookmarkBegin
-BookmarkTitle: 2000 ... 97-22
-BookmarkLevel: 4
-BookmarkPageNumber: 1386
-BookmarkBegin
-BookmarkTitle:  ... 2001-2002
-BookmarkLevel: 4
-BookmarkPageNumber: 
-BookmarkBegin
-BookmarkTitle:  ... 2003-2005
-BookmarkLevel: 4
-BookmarkPageNumber: 
-BookmarkBegin
 BookmarkTitle: relay panel, removing/installing ... 97-5
 BookmarkLevel: 4
 BookmarkPageNumber: 1369
@@ -4947,14 +4943,10 @@ BookmarkTitle: relay positions ... 97-3
 BookmarkLevel: 4
 BookmarkPageNumber: 1367
 BookmarkBegin
-BookmarkTitle: symbols used in wiring diagrams ... 97-14
-BookmarkLevel: 4
-BookmarkPageNumber: 1378
-BookmarkBegin
 BookmarkTitle: using wiring diagrams ... 97-9
 BookmarkLevel: 4
 BookmarkPageNumber: 1373
 BookmarkBegin
-BookmarkTitle: wiring diagram layout ... 97-11
-BookmarkLevel: 4
-BookmarkPageNumber: 1375
+BookmarkTitle: 
+BookmarkLevel: 3
+BookmarkPageNumber: 

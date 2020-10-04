@@ -2,21 +2,21 @@ A
 ABS
 see Anti-lock brakes (ABS)
 ABS/EDUASR/ESP coding tables ST-29
-Air conditioning (Ale)
-AlC, heating and ventilation controls	87-23
-AlC clutch 87-38
-AlC components, underhood 87-32
-AlC compressor 87-34
-AlC passenger compartment components (climatronic) 87-24
-AlC pressure switches, checking 87-9
-AlC refrigerant circuit, 87-2
-AlC refrigerant system 87-5
-AlC refrigerant system, replacing components 87-12
-AlC refrigerant system servicing 87-16
-AlC refrigerant system, discharging and charging 87-21
-AlC refrigerant system, flushing 87-22
-AlC system, troubleshooting 87-18
-AlC system odor, checking 87-16
+Air conditioning (A/C)
+A/C, heating and ventilation controls 87-23
+A/C clutch 87-38
+A/C components, underhood 87-32
+A/C compressor 87-34
+A/C passenger compartment components (climatronic) 87-24
+A/C pressure switches, checking 87-9
+A/C refrigerant circuit, 87-2
+A/C refrigerant system 87-5
+A/C refrigerant system, replacing components 87-12
+A/C refrigerant system servicing 87-16
+A/C refrigerant system, discharging and charging 87-21
+A/C refrigerant system, flushing 87-22
+A/C system, troubleshooting 87-18
+A/C system odor, checking 87-16
 air flap motors (climatronic) 87-28
 condenser assembly, overview 87-14
 control module for fresh air blower, removing 87-26
@@ -1113,14 +1113,7 @@ component locations 97-7
 fuses and relays 97-2
 fuse panel, removing/installing 97-4
 ground locations 97-6
-how to read wiring diagrams 97-12
-indexes (by model year)
-1999 97-16
-2000 97-22
-2001-2002 97-30
-2003-2005 97-30
 relay panel, removing/installing 97-5
 relay positions 97-3
-symbols used in wiring diagrams 97-14
 using wiring diagrams 97-9
-wiring diagram layout 97-11
+

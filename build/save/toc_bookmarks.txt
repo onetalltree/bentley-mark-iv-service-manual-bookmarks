@@ -1,21 +1,21 @@
 BookmarkBegin
-BookmarkTitle:  ... TABLE OF CONTENTS
+BookmarkTitle: TABLE OF CONTENTS
 BookmarkLevel: 1
 BookmarkPageNumber: 3
 BookmarkBegin
-BookmarkTitle: -ii ... Important Safety Notice
+BookmarkTitle: Important Safety Notice
 BookmarkLevel: 2
 BookmarkPageNumber: 2
 BookmarkBegin
-BookmarkTitle: -v ... Foreword and Disclaimer
+BookmarkTitle: Foreword and Disclaimer
 BookmarkLevel: 2
 BookmarkPageNumber: 5
 BookmarkBegin
-BookmarkTitle: -vi ... Vehicle Identification and VIN Decoder
+BookmarkTitle: Vehicle Identification and VIN Decoder
 BookmarkLevel: 2
 BookmarkPageNumber: 6
 BookmarkBegin
-BookmarkTitle: -vii ... Warnings and Cautions
+BookmarkTitle: Warnings and Cautions
 BookmarkLevel: 2
 BookmarkPageNumber: 7
 BookmarkBegin
@@ -131,67 +131,67 @@ BookmarkTitle: 30 ... Clutch
 BookmarkLevel: 2
 BookmarkPageNumber: 707
 BookmarkBegin
-BookmarkTitle: 30-1 ... GENERAL
+BookmarkTitle: 30 ... GENERAL
 BookmarkLevel: 3
 BookmarkPageNumber: 707
 BookmarkBegin
-BookmarkTitle: 30-2 ... CLUTCH PEDAL (02J AND 02M)
+BookmarkTitle: 30 ... CLUTCH PEDAL (02J AND 02M)
 BookmarkLevel: 3
 BookmarkPageNumber: 708
 BookmarkBegin
-BookmarkTitle: 30-3 ... Clutch pedal, assembly
+BookmarkTitle: 30 ... Clutch pedal, assembly
 BookmarkLevel: 3
 BookmarkPageNumber: 709
 BookmarkBegin
-BookmarkTitle: 30-4 ... Over-center spring, removing and installing
+BookmarkTitle: 30 ... Over-center spring, removing and installing
 BookmarkLevel: 3
 BookmarkPageNumber: 710
 BookmarkBegin
-BookmarkTitle: 30-6 ... Clutch pedal, removing and installing
+BookmarkTitle: 30 ... Clutch pedal, removing and installing
 BookmarkLevel: 3
 BookmarkPageNumber: 712
 BookmarkBegin
-BookmarkTitle: 30-6 ... CLUTCH HYDRAULIC SYSTEM
+BookmarkTitle: 30 ... CLUTCH HYDRAULIC SYSTEM
 BookmarkLevel: 3
 BookmarkPageNumber: 713
 BookmarkBegin
-BookmarkTitle: 30-7 ... Clutch hydraulic system assembly (02J)
+BookmarkTitle: 30 ... Clutch hydraulic system assembly (02J)
 BookmarkLevel: 3
 BookmarkPageNumber: 714
 BookmarkBegin
-BookmarkTitle: 30-8 ... Clutch hydraulic system assembly (02M)
+BookmarkTitle: 30 ... Clutch hydraulic system assembly (02M)
 BookmarkLevel: 3
 BookmarkPageNumber: 715
 BookmarkBegin
-BookmarkTitle: 30-10 ... Clutch master cylinder,removing and installing (02J and 02M)
+BookmarkTitle: 30 ... Clutch master cylinder,removing and installing (02J and 02M)
 BookmarkLevel: 3
 BookmarkPageNumber: 716
 BookmarkBegin
-BookmarkTitle: 30-14 ... Clutch hydraulic system bleeding, (02J and 02M)
+BookmarkTitle: 30 ... Clutch hydraulic system bleeding, (02J and 02M)
 BookmarkLevel: 3
 BookmarkPageNumber: 720
 BookmarkBegin
-BookmarkTitle: 30-15 ... CLUTCH RELEASE MECHANISM
+BookmarkTitle: 30 ... CLUTCH RELEASE MECHANISM
 BookmarkLevel: 3
 BookmarkPageNumber: 721
 BookmarkBegin
-BookmarkTitle: 30-16 ... Clutch release mechanism, (02J)
+BookmarkTitle: 30 ... Clutch release mechanism, (02J)
 BookmarkLevel: 3
 BookmarkPageNumber: 722
 BookmarkBegin
-BookmarkTitle: 30-17 ... Clutch release mechanism, (02M)
+BookmarkTitle: 30 ... Clutch release mechanism, (02M)
 BookmarkLevel: 3
 BookmarkPageNumber: 723
 BookmarkBegin
-BookmarkTitle: 30-18 ... CLUTCH SERVICING (02J AND 02M)
+BookmarkTitle: 30 ... CLUTCH SERVICING (02J AND 02M)
 BookmarkLevel: 3
 BookmarkPageNumber: 724
 BookmarkBegin
-BookmarkTitle: 30-18 ... Clutch assembly
+BookmarkTitle: 30 ... Clutch assembly
 BookmarkLevel: 3
 BookmarkPageNumber: 724
 BookmarkBegin
-BookmarkTitle: 30-20 ... QUALITY REVIEW
+BookmarkTitle: 30 ... QUALITY REVIEW
 BookmarkLevel: 3
 BookmarkPageNumber: 725
 BookmarkBegin
@@ -339,103 +339,103 @@ BookmarkTitle: 97 ... Wiring Diagrams, Fuses and Relays
 BookmarkLevel: 1
 BookmarkPageNumber: 1365
 BookmarkBegin
-BookmarkTitle: 97-2 ... Fuses and Relays
+BookmarkTitle: 97 ... Fuses and Relays
 BookmarkLevel: 2
 BookmarkPageNumber: 1367
 BookmarkBegin
-BookmarkTitle: 97-6 ... Ground Locations
+BookmarkTitle: 97 ... Ground Locations
 BookmarkLevel: 2
 BookmarkPageNumber: 1370
 BookmarkBegin
-BookmarkTitle: 97-7 ... Component Locations
+BookmarkTitle: 97 ... Component Locations
 BookmarkLevel: 2
 BookmarkPageNumber: 1371
 BookmarkBegin
-BookmarkTitle:  ... Electrical Wiring Diagram Index
+BookmarkTitle: Electrical Wiring Diagram Index
 BookmarkLevel: 2
 BookmarkPageNumber: 
 BookmarkBegin
-BookmarkTitle: 97-16 ... 1999 Models
+BookmarkTitle: 97 ... 1999 Models
 BookmarkLevel: 3
 BookmarkPageNumber: 1377
 BookmarkBegin
-BookmarkTitle: 97-22 ... 2000 models
+BookmarkTitle: 97 ... 2000 models
 BookmarkLevel: 3
 BookmarkPageNumber: 1380
 BookmarkBegin
-BookmarkTitle: 97-30 ... 2001-2002 models
+BookmarkTitle: 97 ... 2001-2002 models
 BookmarkLevel: 3
 BookmarkPageNumber: 1384
 BookmarkBegin
-BookmarkTitle: 97-760 ... 2003-2005 models
+BookmarkTitle: 97 ... 2003-2005 models
 BookmarkLevel: 3
 BookmarkPageNumber: 1749
 BookmarkBegin
-BookmarkTitle: 97-865 ... WIRING DIAGRAMS (JETTA TDI BEW MT ONLY)
+BookmarkTitle: 97 ... WIRING DIAGRAMS
 BookmarkLevel: 1
 BookmarkPageNumber: 1801
 BookmarkBegin
-BookmarkTitle: 97-865 ... No. 81/1 (1.9L - Engine - TDI PD BEW MT 74 kW)
+BookmarkTitle: 97 ... No. 81/1 (1.9L - Engine - TDI PD BEW MT 74 kW)
 BookmarkLevel: 2
 BookmarkPageNumber: 1801
 BookmarkBegin
-BookmarkTitle: 97-864 ... No. 81/2 (Lanes 1 - 14)
+BookmarkTitle: 97 ... No. 81/2 (Lanes 1 - 14)
 BookmarkLevel: 3
 BookmarkPageNumber: 1801
 BookmarkBegin
-BookmarkTitle: 97-867 ... No. 81/3 (Lanes 15 - 28)
+BookmarkTitle: 97 ... No. 81/3 (Lanes 15 - 28)
 BookmarkLevel: 3
 BookmarkPageNumber: 1802
 BookmarkBegin
-BookmarkTitle: 97-866 ... No. 81/4 (Lanes 29 - 42)
+BookmarkTitle: 97 ... No. 81/4 (Lanes 29 - 42)
 BookmarkLevel: 3
 BookmarkPageNumber: 1802
 BookmarkBegin
-BookmarkTitle: 97-869 ... No. 81/5 (Lanes 43 - 56)
+BookmarkTitle: 97 ... No. 81/5 (Lanes 43 - 56)
 BookmarkLevel: 3
 BookmarkPageNumber: 1803
 BookmarkBegin
-BookmarkTitle: 97-868 ... No. 81/6 (Lanes 57 - 70)
+BookmarkTitle: 97 ... No. 81/6 (Lanes 57 - 70)
 BookmarkLevel: 3
 BookmarkPageNumber: 1803
 BookmarkBegin
-BookmarkTitle: 97-871 ... No. 81/7 (Lanes 71 - 84)
+BookmarkTitle: 97 ... No. 81/7 (Lanes 71 - 84)
 BookmarkLevel: 3
 BookmarkPageNumber: 1804
 BookmarkBegin
-BookmarkTitle: 97-870 ... No. 81/8 (Lanes 85 - 98)
+BookmarkTitle: 97 ... No. 81/8 (Lanes 85 - 98)
 BookmarkLevel: 3
 BookmarkPageNumber: 1804
 BookmarkBegin
-BookmarkTitle: 97-873 ... No. 81/9 (Lanes 99 - 112)
+BookmarkTitle: 97 ... No. 81/9 (Lanes 99 - 112)
 BookmarkLevel: 3
 BookmarkPageNumber: 1805
 BookmarkBegin
-BookmarkTitle: 97-872 ... No. 81/10 (Lanes 113 - 126)
+BookmarkTitle: 97 ... No. 81/10 (Lanes 113 - 126)
 BookmarkLevel: 3
 BookmarkPageNumber: 1805
 BookmarkBegin
-BookmarkTitle: 97-875 ... No. 81/11 (Lanes 127 - 140)
+BookmarkTitle: 97 ... No. 81/11 (Lanes 127 - 140)
 BookmarkLevel: 3
 BookmarkPageNumber: 1806
 BookmarkBegin
-BookmarkTitle: 97-874 ... No. 81/12 (Lanes 141 - 154)
+BookmarkTitle: 97 ... No. 81/12 (Lanes 141 - 154)
 BookmarkLevel: 3
 BookmarkPageNumber: 1806
 BookmarkBegin
-BookmarkTitle: 97-877 ... No. 81/13 (Lanes 155 - 168)
+BookmarkTitle: 97 ... No. 81/13 (Lanes 155 - 168)
 BookmarkLevel: 3
 BookmarkPageNumber: 1807
 BookmarkBegin
-BookmarkTitle: 97-876 ... No. 81/14 (Lanes 169 - 182)
+BookmarkTitle: 97 ... No. 81/14 (Lanes 169 - 182)
 BookmarkLevel: 3
 BookmarkPageNumber: 1807
 BookmarkBegin
-BookmarkTitle: 97-879 ... No. 81/15 (Lanes 183 - 196)
+BookmarkTitle: 97 ... No. 81/15 (Lanes 183 - 196)
 BookmarkLevel: 3
 BookmarkPageNumber: 1808
 BookmarkBegin
-BookmarkTitle: 97-878 ... No. 81/16 (Lanes 197 - 210)
+BookmarkTitle: 97 ... No. 81/16 (Lanes 197 - 210)
 BookmarkLevel: 3
 BookmarkPageNumber: 1808
 BookmarkBegin

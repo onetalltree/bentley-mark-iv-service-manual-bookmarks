@@ -1,0 +1,65 @@
+[
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "SELECTED WIRING DIAGRAMS (2005 Jetta TDI)",
+        "sectionNumber": "",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "",
+        "lineNumber": 1
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Windshield wiper/washer switch",
+        "sectionNumber": "",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1400",
+        "lineNumber": 2
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "1.9L engine (code SEW) with manual trans. from May 2003",
+        "sectionNumber": "",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1754",
+        "lineNumber": 3
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "2004-2005 Additional electrical wiring diagrams",
+        "sectionNumber": "97",
+        "sectionPageNumber": "778",
+        "pdfPageNumber": "1758",
+        "lineNumber": 4
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "81/3 Glow plug activation control module, engine glow ",
+        "sectionNumber": "97",
+        "sectionPageNumber": "867",
+        "pdfPageNumber": "1802",
+        "lineNumber": 5
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "G28 - Engine Speed (RPM) Sensor",
+        "sectionNumber": "97",
+        "sectionPageNumber": "869",
+        "pdfPageNumber": "1803",
+        "lineNumber": 6
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "G40 - Camshaft Position (CMP) Sensor",
+        "sectionNumber": "97",
+        "sectionPageNumber": "871",
+        "pdfPageNumber": "1804",
+        "lineNumber": 7
+    }
+]

@@ -1,0 +1,1001 @@
+[
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "TABLE OF CONTENTS",
+        "sectionNumber": "",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "3",
+        "lineNumber": 1
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Important Safety Notice",
+        "sectionNumber": "",
+        "sectionPageNumber": "ii",
+        "pdfPageNumber": "2",
+        "lineNumber": 2
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Foreword and Disclaimer",
+        "sectionNumber": "",
+        "sectionPageNumber": "v",
+        "pdfPageNumber": "5",
+        "lineNumber": 3
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Vehicle Identification and VIN Decoder",
+        "sectionNumber": "",
+        "sectionPageNumber": "vi",
+        "pdfPageNumber": "6",
+        "lineNumber": 4
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Warnings and Cautions",
+        "sectionNumber": "",
+        "sectionPageNumber": "vii",
+        "pdfPageNumber": "7",
+        "lineNumber": 5
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Overview, Maintenance",
+        "sectionNumber": "00",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "9",
+        "lineNumber": 6
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Golf, GTI and Jetta Product Familiarization",
+        "sectionNumber": "00",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "9",
+        "lineNumber": 7
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Maintenance",
+        "sectionNumber": "0",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "39",
+        "lineNumber": 8
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Engine",
+        "sectionNumber": "1",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "",
+        "lineNumber": 9
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Engine-Removing and Installing",
+        "sectionNumber": "10",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "111",
+        "lineNumber": 10
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Crankshaft/Cylinder Block (4-Cylinder)",
+        "sectionNumber": "13a",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "155",
+        "lineNumber": 11
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Crankshaft/Cylinder Block (6-Cylinder)",
+        "sectionNumber": "13b",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "177",
+        "lineNumber": 12
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Cylinder Head and Valvetrain (1.8L Engine)",
+        "sectionNumber": "15a",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "191",
+        "lineNumber": 13
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Cylinder Head and Valvetrain (1.9L Engine)",
+        "sectionNumber": "15b",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "225",
+        "lineNumber": 14
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Cylinder Head and Valvetrain (2.0L Engine)",
+        "sectionNumber": "15c",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "257",
+        "lineNumber": 15
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Cylinder Head and Valvetrain (2.8L Engine)",
+        "sectionNumber": "15d",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "297",
+        "lineNumber": 16
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Cylinder Head and Valvetrain (1.9L PO Engine)",
+        "sectionNumber": "15e",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "367",
+        "lineNumber": 17
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Enqine-Lubricatlon System",
+        "sectionNumber": "17",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "397",
+        "lineNumber": 18
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Engine-Cooling System",
+        "sectionNumber": "19",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "421",
+        "lineNumber": 19
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Engine Management, Exhaust, and Engine Electrical",
+        "sectionNumber": "2",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "459",
+        "lineNumber": 20
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "General Information",
+        "sectionNumber": "2",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "459",
+        "lineNumber": 21
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Fuel Storage and Supply",
+        "sectionNumber": "20",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "469",
+        "lineNumber": 22
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Turbocharger and Intercooler",
+        "sectionNumber": "21",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "505",
+        "lineNumber": 23
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Fuel Injection-Diesel (1.9L Engine)",
+        "sectionNumber": "23",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "521",
+        "lineNumber": 24
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Fuel lnjection-Motronic (1.8L Engine)",
+        "sectionNumber": "24a",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "561",
+        "lineNumber": 25
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Fuel lnjection-Motronic (2.0L Engine)",
+        "sectionNumber": "24b",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "575",
+        "lineNumber": 26
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Fuel lnjection-Motronic (2.8L Engine)",
+        "sectionNumber": "24c",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "591",
+        "lineNumber": 27
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Exhaust System andEmission Controls",
+        "sectionNumber": "26",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "615",
+        "lineNumber": 28
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Engine Electrical",
+        "sectionNumber": "27",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "655",
+        "lineNumber": 29
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Ignition System-Gasoline",
+        "sectionNumber": "28a",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "677",
+        "lineNumber": 30
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Ignition System-Diesel",
+        "sectionNumber": "28b",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "699",
+        "lineNumber": 31
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Clutch, Transmission,and Final Drive",
+        "sectionNumber": "3",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "707",
+        "lineNumber": 32
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Clutch",
+        "sectionNumber": "30",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "707",
+        "lineNumber": 33
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "GENERAL",
+        "sectionNumber": "30",
+        "sectionPageNumber": "1",
+        "pdfPageNumber": "707",
+        "lineNumber": 34
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "CLUTCH PEDAL (02J AND 02M)",
+        "sectionNumber": "30",
+        "sectionPageNumber": "2",
+        "pdfPageNumber": "708",
+        "lineNumber": 35
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "Clutch pedal, assembly",
+        "sectionNumber": "30",
+        "sectionPageNumber": "3",
+        "pdfPageNumber": "709",
+        "lineNumber": 36
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "Over-center spring, removing and installing",
+        "sectionNumber": "30",
+        "sectionPageNumber": "4",
+        "pdfPageNumber": "710",
+        "lineNumber": 37
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "Clutch pedal, removing and installing",
+        "sectionNumber": "30",
+        "sectionPageNumber": "6",
+        "pdfPageNumber": "712",
+        "lineNumber": 38
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "CLUTCH HYDRAULIC SYSTEM",
+        "sectionNumber": "30",
+        "sectionPageNumber": "6",
+        "pdfPageNumber": "713",
+        "lineNumber": 39
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "Clutch hydraulic system assembly (02J)",
+        "sectionNumber": "30",
+        "sectionPageNumber": "7",
+        "pdfPageNumber": "714",
+        "lineNumber": 40
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "Clutch hydraulic system assembly (02M)",
+        "sectionNumber": "30",
+        "sectionPageNumber": "8",
+        "pdfPageNumber": "715",
+        "lineNumber": 41
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "Clutch master cylinder,removing and installing (02J and 02M)",
+        "sectionNumber": "30",
+        "sectionPageNumber": "10",
+        "pdfPageNumber": "716",
+        "lineNumber": 42
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "Clutch hydraulic system bleeding, (02J and 02M)",
+        "sectionNumber": "30",
+        "sectionPageNumber": "14",
+        "pdfPageNumber": "720",
+        "lineNumber": 43
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "CLUTCH RELEASE MECHANISM",
+        "sectionNumber": "30",
+        "sectionPageNumber": "15",
+        "pdfPageNumber": "721",
+        "lineNumber": 44
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "Clutch release mechanism, (02J)",
+        "sectionNumber": "30",
+        "sectionPageNumber": "16",
+        "pdfPageNumber": "722",
+        "lineNumber": 45
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "Clutch release mechanism, (02M)",
+        "sectionNumber": "30",
+        "sectionPageNumber": "17",
+        "pdfPageNumber": "723",
+        "lineNumber": 46
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "CLUTCH SERVICING (02J AND 02M)",
+        "sectionNumber": "30",
+        "sectionPageNumber": "18",
+        "pdfPageNumber": "724",
+        "lineNumber": 47
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "Clutch assembly",
+        "sectionNumber": "30",
+        "sectionPageNumber": "18",
+        "pdfPageNumber": "724",
+        "lineNumber": 48
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "QUALITY REVIEW",
+        "sectionNumber": "30",
+        "sectionPageNumber": "20",
+        "pdfPageNumber": "725",
+        "lineNumber": 49
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Torque Converter",
+        "sectionNumber": "32",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "727",
+        "lineNumber": 50
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Manual Transmission",
+        "sectionNumber": "34",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "735",
+        "lineNumber": 51
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Automatic Transmission",
+        "sectionNumber": "37",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "807",
+        "lineNumber": 52
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Differential and Final Drive",
+        "sectionNumber": "39",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "867",
+        "lineNumber": 53
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Suspension, Brakes, and Steering",
+        "sectionNumber": "4",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "887",
+        "lineNumber": 54
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Front Suspension and Drive Axles",
+        "sectionNumber": "40",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "887",
+        "lineNumber": 55
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Rear Suspension",
+        "sectionNumber": "42",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "935",
+        "lineNumber": 56
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Wheels-Tires, Wheel Alignment",
+        "sectionNumber": "44",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "953",
+        "lineNumber": 57
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Anti-Lock Brakes (ABS)",
+        "sectionNumber": "45",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "963",
+        "lineNumber": 58
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Brakes-Mechanical Components",
+        "sectionNumber": "46",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "987",
+        "lineNumber": 59
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Brakes-Hydraulic System",
+        "sectionNumber": "47",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1003",
+        "lineNumber": 60
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Steering",
+        "sectionNumber": "48",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1027",
+        "lineNumber": 61
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Body-Assembly",
+        "sectionNumber": "5",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1055",
+        "lineNumber": 62
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Body-Front",
+        "sectionNumber": "50",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1055",
+        "lineNumber": 63
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Hood and Lids",
+        "sectionNumber": "55",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1061",
+        "lineNumber": 64
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Front Doors",
+        "sectionNumber": "57",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1081",
+        "lineNumber": 65
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Rear Doors",
+        "sectionNumber": "58",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1103",
+        "lineNumber": 66
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Body-Components and Accessories",
+        "sectionNumber": "6",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1117",
+        "lineNumber": 67
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Sunroof",
+        "sectionNumber": "60",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1117",
+        "lineNumber": 68
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Bumpers",
+        "sectionNumber": "63",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1131",
+        "lineNumber": 69
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Body-Exterior Equipment",
+        "sectionNumber": "66",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1137",
+        "lineNumber": 70
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Seatbelts, Airbags",
+        "sectionNumber": "69",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1151",
+        "lineNumber": 71
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Body-Interior Trim",
+        "sectionNumber": "7",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1177",
+        "lineNumber": 72
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Trim-Interior",
+        "sectionNumber": "70",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1177",
+        "lineNumber": 73
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Seats",
+        "sectionNumber": "72",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1219",
+        "lineNumber": 74
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Heating and Air Conditioning",
+        "sectionNumber": "8",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1235",
+        "lineNumber": 75
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Heating and Ventilation",
+        "sectionNumber": "80",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1235",
+        "lineNumber": 76
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Air Conditioning",
+        "sectionNumber": "87",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1251",
+        "lineNumber": 77
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Electrical System",
+        "sectionNumber": "9",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1297",
+        "lineNumber": 78
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "General Information",
+        "sectionNumber": "90",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1297",
+        "lineNumber": 79
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Instruments",
+        "sectionNumber": "90",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1297",
+        "lineNumber": 80
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Radio and Communication",
+        "sectionNumber": "91",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1305",
+        "lineNumber": 81
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Wipers and Washers",
+        "sectionNumber": "92",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1327",
+        "lineNumber": 82
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Lights, Accessories-Exterior",
+        "sectionNumber": "94",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1337",
+        "lineNumber": 83
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Lights, Accessories-Interior",
+        "sectionNumber": "96",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1355",
+        "lineNumber": 84
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "Wiring Diagrams, Fuses and Relays",
+        "sectionNumber": "97",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1365",
+        "lineNumber": 85
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Fuses and Relays",
+        "sectionNumber": "97",
+        "sectionPageNumber": "2",
+        "pdfPageNumber": "1367",
+        "lineNumber": 86
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Ground Locations",
+        "sectionNumber": "97",
+        "sectionPageNumber": "6",
+        "pdfPageNumber": "1370",
+        "lineNumber": 87
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Component Locations",
+        "sectionNumber": "97",
+        "sectionPageNumber": "7",
+        "pdfPageNumber": "1371",
+        "lineNumber": 88
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "Electrical Wiring Diagram Index",
+        "sectionNumber": "",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "",
+        "lineNumber": 89
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "1999 Models",
+        "sectionNumber": "97",
+        "sectionPageNumber": "16",
+        "pdfPageNumber": "1377",
+        "lineNumber": 90
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "2000 models",
+        "sectionNumber": "97",
+        "sectionPageNumber": "22",
+        "pdfPageNumber": "1380",
+        "lineNumber": 91
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "2001-2002 models",
+        "sectionNumber": "97",
+        "sectionPageNumber": "30",
+        "pdfPageNumber": "1384",
+        "lineNumber": 92
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "2003-2005 models",
+        "sectionNumber": "97",
+        "sectionPageNumber": "760",
+        "pdfPageNumber": "1749",
+        "lineNumber": 93
+    },
+    {
+        "type": "toc_entry",
+        "level": "1",
+        "text": "WIRING DIAGRAMS (JETTA TDI BEW MT ONLY)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "865",
+        "pdfPageNumber": "1801",
+        "lineNumber": 94
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "No. 81/1 (1.9L - Engine - TDI PD BEW MT 74 kW)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "865",
+        "pdfPageNumber": "1801",
+        "lineNumber": 95
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/2 (Lanes 1 - 14)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "864",
+        "pdfPageNumber": "1801",
+        "lineNumber": 96
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/3 (Lanes 15 - 28)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "867",
+        "pdfPageNumber": "1802",
+        "lineNumber": 97
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/4 (Lanes 29 - 42)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "866",
+        "pdfPageNumber": "1802",
+        "lineNumber": 98
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/5 (Lanes 43 - 56)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "869",
+        "pdfPageNumber": "1803",
+        "lineNumber": 99
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/6 (Lanes 57 - 70)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "868",
+        "pdfPageNumber": "1803",
+        "lineNumber": 100
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/7 (Lanes 71 - 84)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "871",
+        "pdfPageNumber": "1804",
+        "lineNumber": 101
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/8 (Lanes 85 - 98)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "870",
+        "pdfPageNumber": "1804",
+        "lineNumber": 102
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/9 (Lanes 99 - 112)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "873",
+        "pdfPageNumber": "1805",
+        "lineNumber": 103
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/10 (Lanes 113 - 126)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "872",
+        "pdfPageNumber": "1805",
+        "lineNumber": 104
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/11 (Lanes 127 - 140)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "875",
+        "pdfPageNumber": "1806",
+        "lineNumber": 105
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/12 (Lanes 141 - 154)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "874",
+        "pdfPageNumber": "1806",
+        "lineNumber": 106
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/13 (Lanes 155 - 168)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "877",
+        "pdfPageNumber": "1807",
+        "lineNumber": 107
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/14 (Lanes 169 - 182)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "876",
+        "pdfPageNumber": "1807",
+        "lineNumber": 108
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/15 (Lanes 183 - 196)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "879",
+        "pdfPageNumber": "1808",
+        "lineNumber": 109
+    },
+    {
+        "type": "toc_entry",
+        "level": "3",
+        "text": "No. 81/16 (Lanes 197 - 210)",
+        "sectionNumber": "97",
+        "sectionPageNumber": "878",
+        "pdfPageNumber": "1808",
+        "lineNumber": 110
+    },
+    {
+        "type": "toc_entry",
+        "level": "2",
+        "text": "ST Scan Tool",
+        "sectionNumber": "ST",
+        "sectionPageNumber": "",
+        "pdfPageNumber": "1871",
+        "lineNumber": 111
+    }
+]
